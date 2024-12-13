@@ -7,3 +7,4 @@ title: Witaj
 ## Lista przedmiotów do wyboru:
 - **[[Historia/index|Historia]]**
 - **[[Polski/index|Polski]]**
+- **[[Niemiecki (Pilachowski)/index|Niemiecki (Pilachowski)]]**
