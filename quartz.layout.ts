@@ -8,7 +8,8 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
+      Kod: "https://github.com/62koen/notatki",
+      "Wygląd inspirowany aplikacją Obsidian": "https://obsidian.md",
     },
   }),
 }
@@ -30,7 +31,6 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
   ],
 }
 

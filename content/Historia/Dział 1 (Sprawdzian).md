@@ -5,13 +5,11 @@
 - Odwilż posewastopolska: Zdobycie Sewastopola przez Turków oznaczało klęskę Rosji w wojnie krymskiej. Ta porażka osłabiła kraj na arenie międzynarodowej i uwidoczniła jego wewnętrzne zacofanie. Car Aleksander II zaczął więc wprowadzać szereg reform w państwie, aby temu przeciwdziałać.
 ## Zjednoczenie Włoch
 - risorgimento - ruch, którego celem było budzenie świadomości narodowej Włochów oraz dążenie do utworzenia zjednoczonych i niepodległych Włoch
-- (Austria sprzeciwiała się zjednoczeniu, gdyż otrzymała część włoskich ziem na kongresie wiedeńskim - Królestwo Sardynii)
 - Giuseppe Garibaldi - włoski rewolucjonista, dowodził "marszem tysiąca czerwonych koszul"
 - Wiktor Emanuel - król Włoch
 - Camillo Cavour - premier Sardynii
 - W **1861 r.** doszło do utworzenia Królestwa Włoch, a parę lat później dołączyły do niego Wenecja i Rzym
 ## Zjednoczenie Niemiec
-- (Wielkie i małe Niemcy - Do tych pierwszych zaliczano Niemcy i Austrię, była to idea Austrii; Małe Niemcy miały by być terenami niemieckimi poza Austrią; idea Prus)
 - Otto von Bismarck - kanclerz Prus i II Rzeszy; znany ze swojej bezwzględności
 - "krew i żelazo" - Bismarck dążył do zjednoczenia Niemiec siłą, poprzez krwawe wojny
 - Wilhelm I Hohenzollern - król Pruski, później cesarz II Rzeszy; radził się Bismarcka
