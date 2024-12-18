@@ -1,6 +1,6 @@
 Instalujemy i otwieramy program [Visual Studio Code (VSCode)](https://code.visualstudio.com/Download) lub [VSCodium](https://vscodium.com/#install).
 
-Tworzymy nowy folder specjalnie dla ćwiczeń HTML, np. w Dokumentach i wchodzimy w niego w programie. Domyślnie strony startowe nazywają się **index.html**, więc taki plik stworzymy, klikając ikonę dokumentu z plusem koło nazwy folderu.
+Tworzymy nowy folder specjalnie dla ćwiczeń HTML, np. w Dokumentach i wchodzimy do niego w programie. Domyślnie strony startowe nazywają się **index.html**, więc taki plik stworzymy, klikając ikonę dokumentu z plusem koło nazwy folderu.
 
 Wpisując znak **!** i klikając enter wywołujemy potrzebny nam szablon, aby zacząć pisać stronę. Po zapisaniu pliku możemy otworzyć go w przeglądarce. Na początku będzie pusty, ale możemy do niego dodać nagłówki (headlines) i akapity (paragraphes - paragrafy). 
 Poniżej kod przykładowej strony:
