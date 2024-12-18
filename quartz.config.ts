@@ -16,7 +16,7 @@ const config: QuartzConfig = {
     locale: "pl-PL",
     baseUrl: "62koen.github.io/notatki",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "modified",
+    defaultDateType: "published",
     generateSocialImages: false,
     theme: {
       fontOrigin: "googleFonts",
