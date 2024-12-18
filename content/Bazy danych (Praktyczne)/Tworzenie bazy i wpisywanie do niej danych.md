@@ -1,3 +1,4 @@
+*Gotowy plik z rozszerzeniem .sql można zaimportować do bazy*
 ```sql
 CREATE DATABASE szkola;
 USE szkola;
