@@ -58,7 +58,7 @@ Wesele
 
 Czapka z pawimi piórami
 - To czapka noszona przez Jaśka. Ten upuszcza ją, gubiąc przy tym złoty róg.
-- Jest ona symbolem próżności i stawiania prywatnego interesu ponad dobro wspólne - Jasiek zgubił złoty róg, ale czapka jest na miejscu; ojczyzna nie zostanie uratowana, ale Jasiek nadal ma czapkę
+- Jest ona symbolem próżności i stawiania prywatnego interesu ponad dobro wspólne - Jasiek zgubił złoty róg, ale czapka jest na miejscu; ojczyzna nie zostanie uratowana, ale Jasiek nadal ma czapkę.
 
 Złoty róg
 - Wernyhora przekazuje go Gospodarzowi, ten oddaje go za to w ręce Jaśka, który gubi go. W ten sposób nie ma szans, aby ponownie zjednoczyć naród.
