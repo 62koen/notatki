@@ -1,4 +1,5 @@
-[Tabelka.png]()
+[Tabelka.png](https://github.com/62koen/notatki/blob/v4/attachments/HTML/Tabelki/tabelka.png)
+[PDF do zadania](https://github.com/62koen/notatki/blob/v4/attachments/HTML/Tabelki/tabele-2uk%C5%82ady.pdf)
 ```html
 <!DOCTYPE html>
 <html lang="pl">

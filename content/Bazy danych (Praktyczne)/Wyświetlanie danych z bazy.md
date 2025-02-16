@@ -29,7 +29,7 @@ Wyświetla elementy, które spełniają warunek id=2 LUB id=1 (wystarczy jeden w
 SELECT * from marki limit 2
 ```
 Wyświetla elementy z id do dwóch
-## [Baza mys]()
+## [Baza mys](https://github.com/62koen/notatki/blob/v4/attachments/SQL/mys.sql)
 
 ```sql
 SELECT * FROM employee WHERE FirstName LIKE "J%"

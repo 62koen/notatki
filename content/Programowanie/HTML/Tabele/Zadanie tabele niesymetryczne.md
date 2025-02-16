@@ -1,4 +1,4 @@
-[Zdjęcie do zadania]()
+[Zdjęcie do zadania](https://github.com/62koen/notatki/blob/v4/attachments/HTML/Tabelki/zadanie-tabelki-niesymetryczne.jpg)
 ```html
 <!DOCTYPE html>
 <html lang="en">
