@@ -1,4 +1,4 @@
-# Przykładowa baza z samochodami
+## Przykładowa baza z samochodami
 
 ```sql
 SELECT * from marki where marka="Opel"
@@ -29,13 +29,12 @@ Wyświetla elementy, które spełniają warunek id=2 LUB id=1 (wystarczy jeden w
 SELECT * from marki limit 2
 ```
 Wyświetla elementy z id do dwóch
-# [Baza mys](https://github.com/62koen/notatki/blob/v4/content/Bazy%20danych%20(Praktyczne)/mys.sql)
+## [Baza mys]()
 
 ```sql
 SELECT * FROM employee WHERE FirstName LIKE "J%"
 ```
 Wyświetlamy imiona, które zaczynają się na literę "J"; np. John, James
-
 "%" oznacza dowolne ZNAKI, a "_" to dowolny ZNAK
 
 ```sql
