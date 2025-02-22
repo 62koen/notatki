@@ -10,14 +10,10 @@
 - **wiązania jonowe**
 - **wiązania metaliczne**
 ## Sposób powstawania wiązania kowalencyjnego i jonowego
-- **kowalencyjne**
-Uwspólnienie elektronów walencyjnych pochodzących od każdego z atomów tworzących wiązanie
-	- **niespolaryzowane**
-	Wspólna para elektronowa jest przyciągana z jednakową siłą przez rdzeń atomowy
-	- **spolaryzowane**
-	Wspólna para elektronowa jest przesunięta w stronę atomu o większej elektroujemności
-- **jonowe**
-Kationy i aniony przyciągają się elektrostatycznie i tworzą kryształy jonowe.
+- **kowalencyjne** - Uwspólnienie elektronów walencyjnych pochodzących od każdego z atomów tworzących wiązanie
+	- **niespolaryzowane** - Wspólna para elektronowa jest przyciągana z jednakową siłą przez rdzeń atomowy
+	- **spolaryzowane** - Wspólna para elektronowa jest przesunięta w stronę atomu o większej elektroujemności
+- **jonowe** - Kationy i aniony przyciągają się elektrostatycznie i tworzą kryształy jonowe.
 ## Określanie ilości wiązań typu sigma i pi
 Są to wiązania kowalencyjne. Wiązania typu sigma (σ), czyli wiązania pojedyncze są tworzone przez dwa elektrony (parę), a wiązania typu pi (π) są każdym dodatkowym wiązaniem w wiązaniu podwójnym lub potrójnym; nie występują samodzielnie.
 ![[https://paniodchemii.pl/wp-content/uploads/2022/04/wiazanie-sigma-pi-1024x380.png]]
@@ -44,5 +40,5 @@ Np.
 - 3,0 - 0,9 = **2,1**
 - **Wiązanie jonowe**
 ## Właściwości związków z wiązaniem kowalencyjnym i jonowym
-![[https://github.com/62koen/notatki/blob/v4/attachments/Chemia/W%C5%82a%C5%9Bciwo%C5%9Bci%20substancji%20wi%C4%85zania.jpg]]
+![[https://github.com/62koen/notatki/blob/cc9bb3982fb9ef425475a3280ea294f918c25f61/attachments/Chemia/W%C5%82a%C5%9Bciwo%C5%9Bci%20substancji%20wi%C4%85zania.jpg]]
 ## Równania otrzymywania jonów
