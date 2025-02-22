@@ -11,3 +11,4 @@ title: Witaj
 - **[[Bazy danych (Praktyczne)/index|Bazy danych (Praktyczne)]]**
 - **[[Programowanie/index|Programowanie]]**
 - **[[Niemiecki (Pilachowski)/index|Niemiecki (Pilachowski)]]**
+- **[[Chemia/index|Chemia]]**
