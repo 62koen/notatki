@@ -40,5 +40,5 @@ Np.
 - 3,0 - 0,9 = **2,1**
 - **Wiązanie jonowe**
 ## Właściwości związków z wiązaniem kowalencyjnym i jonowym
-![[https://github.com/62koen/notatki/blob/cc9bb3982fb9ef425475a3280ea294f918c25f61/attachments/Chemia/W%C5%82a%C5%9Bciwo%C5%9Bci%20substancji%20wi%C4%85zania.jpg]]
+![[https://raw.githubusercontent.com/62koen/notatki/refs/heads/v4/attachments/Chemia/W%C5%82a%C5%9Bciwo%C5%9Bci%20substancji%20wi%C4%85zania.jpg]]
 ## Równania otrzymywania jonów
