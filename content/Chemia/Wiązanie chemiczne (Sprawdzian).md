@@ -32,17 +32,17 @@ Są to wiązania kowalencyjne. Wiązania typu sigma (σ), czyli wiązania pojedy
 
 Np.
 1. H2
-ΔE z H = 2,1 (układ okresowy)
-2,1 - 2,1 = **0**
-**Wiązanie kowalencyjne niespolaryzowane**
+- ΔE z H = 2,1 (układ okresowy)
+- 2,1 - 2,1 = **0**
+- **Wiązanie kowalencyjne niespolaryzowane**
 2. HCl
-ΔE z H = 2,1; ΔE z Cl = 3,0
-3,0 - 2,1 = **0,9**
-**Wiązanie kowalencyjne spolaryzowane**
+- ΔE z H = 2,1; ΔE z Cl = 3,0
+- 3,0 - 2,1 = **0,9**
+- **Wiązanie kowalencyjne spolaryzowane**
 3. NaCl
-ΔE z Na = 0,9; ΔE z Cl = 3,0
-3,0 - 0,9 = **2,1**
-**Wiązanie jonowe**
+- ΔE z Na = 0,9; ΔE z Cl = 3,0
+- 3,0 - 0,9 = **2,1**
+- **Wiązanie jonowe**
 ## Właściwości związków z wiązaniem kowalencyjnym i jonowym
-(Zdjęcie str. 59)
+![[https://github.com/62koen/notatki/blob/v4/attachments/Chemia/W%C5%82a%C5%9Bciwo%C5%9Bci%20substancji%20wi%C4%85zania.jpg]]
 ## Równania otrzymywania jonów
