@@ -20,11 +20,11 @@ Są to wiązania kowalencyjne. Wiązania typu sigma (σ), czyli wiązania pojedy
 ## Określanie rodzaju wiązania na podstawie różnicy elektroujemności pierwiastków
 *ΔE - elektroujemność*
 - **Wiązanie kowalencyjne niespolaryzowane**
-0 ≤ ΔE < 0,4
+	- 0 ≤ ΔE < 0,4
 - **Wiązanie kowalencyjne spolaryzowane**
-0,4 ≤ ΔE < 1,7
+	- 0,4 ≤ ΔE < 1,7
 - **Wiązanie jonowe**
-1,7 ≤ ΔE
+	- 1,7 ≤ ΔE
 
 Np.
 1. H2
