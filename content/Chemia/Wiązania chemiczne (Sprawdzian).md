@@ -1,7 +1,7 @@
 ## Definicje
 - **wiązanie chemiczne** - oddziaływania, które występują między łączączymi się atomami
 - **elektroujemność** - zdolność atomu danego pierwiastka chemicznego do przyciągania elektronów tworzących wiązanie chemiczne
-- **wartościowość pierwiastka** - 
+- **wartościowość pierwiastka** - liczba wiązań chemicznych którymi dany pierwiastek może łączyć się z innymi
 - **dipol** - cząsteczka elektrycznie obojętna; ma dwa bieguny, dodatni i ujemny
 ## Rodzaje wiązań chemicznych
 - **wiązania kowalencyjne**
@@ -40,5 +40,8 @@ Np.
 - 3,0 - 0,9 = **2,1**
 - **Wiązanie jonowe**
 ## Właściwości związków z wiązaniem kowalencyjnym i jonowym
+Podręcznik str. 59
 ![[https://raw.githubusercontent.com/62koen/notatki/refs/heads/v4/attachments/Chemia/W%C5%82a%C5%9Bciwo%C5%9Bci%20substancji%20wi%C4%85zania.jpg]]
 ## Równania otrzymywania jonów
+Podręcznik str. 50
+![[https://raw.githubusercontent.com/62koen/notatki/refs/heads/v4/attachments/Chemia/R%C3%B3wnania%20otrzymywania%20jon%C3%B3w.jpg]]
