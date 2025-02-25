@@ -1,18 +1,18 @@
-**Technologia CCD**
+## Technologia CCD
 CCD oznacza tzw. układ ze sprzężeniem ładunkowym, przy pomocy którego do uzyskiwania
 fotografii wykorzystuje się wyłącznie prąd. Matryca zawiera miliony mikroskopijnych
 światłoczułych płytek, rejestrujących światło. Generuje tym samym ładunki, które po
 zakończeniu ekspozycji zostają odczytane. Aby stwierdzić, jak dużo fotonów padło na komórkę
 fotodetektora, wystarczy zmierzyć wartość ładunku zgromadzonego na detektorze.
-**Budowa matrycy**
+## Budowa matrycy
 Matryca składa się z milionów elementów o następującej budowie:
-elementu światłoczułego, działającego na zasadzie fotodiody,
-wzmacniacza sygnału,
-przetwornika analogowo-cyfrowego,
-mikrosoczewki, której zadaniem jest skupienie światła na elemencie światłoczułym,
-filtru barwnego odpowiadającego za fakt, że piksel jest czuły tylko na pewne spektrum światła.
+- elementu światłoczułego, działającego na zasadzie fotodiody,
+- wzmacniacza sygnału,
+- przetwornika analogowo-cyfrowego,
+- mikrosoczewki, której zadaniem jest skupienie światła na elemencie światłoczułym,
+- filtru barwnego odpowiadającego za fakt, że piksel jest czuły tylko na pewne spektrum światła.
 Najczęściej stosowana siatka filtrów Bayera.
-**Tecnologia CMOS**
+## Tecnologia CMOS
 Matryce CMOS działają na podobnych zasadach jak opisane poniżej matryce CCD z tą różnicą,
 że komórki rzędów CMOS są adresowane i odczytywane indywidualnie (dzięki zastosowaniu
 pionowego i poziomego rejestru odczytującego). Każdy element matrycy CMOS zapisuje obraz
@@ -20,7 +20,7 @@ oddzielnie, ponieważ układy CMOS tworzą niezależną macierz, z której odczy
 problemu wartości natężenia światła z dowolnej komórki, a pomiar może być przeprowadzany
 wielokrotnie bez utraty zgromadzonej tam informacji. Wystarczy podać współrzędne danego
 elementu, żeby dotrzeć do uzyskanych danych.
-Technologia CMOS
+
 Matryca CMOS (Complementary Metal Oxide Semiconductor) to układ wielu elementów
 światłoczułych wykonany w technologii CMOS. Matryce CMOS występują w wielu
 urządzeniach, takich jak kamery internetowe, kompaktowe aparaty cyfrowe, lustrzanki cyfrowe
@@ -55,7 +55,8 @@ CCD: Większy współczynnik wypełnienia (mniej obwodów elektrycznych zasłani
 dostające się do fotoelementów)
 CMOS: Mniejszy współczynnik wypełnienia (więcej obwodów elektrycznych zasłaniających
 światło dostające się do fotoelementów)
-**Aparaty kompaktowe**
+
+## Aparaty kompaktowe
 W aparacie kompaktowym obiektyw i lampa błyskowa są wbudowane na stałe. Aparaty te mają
 funkcje zdjęciowe, które są porównywalne z aparatami lustrzanymi. Różnice między aparatami
 kompaktowymi a ich lustrzanymi odpowiednikami dotyczą rodzaju obiektywu, wielkości matrycy
@@ -64,9 +65,8 @@ kompaktowe pracują w trybie pełnej automatyki procesu rejestracji obrazu.
 Osoba, która zupełnie nie zna się na fotografii, jest w stanie zrobić dobre zdjęcie. W momencie
 naciśnięcia spustu migawki, aparat kompaktowy wykonuje pomiar światła i odległości.
 Następnie na podstawie wyników pomiarów
-**Aparaty lustrzane (lustrzanki)**
 
-
+## Aparaty lustrzane (lustrzanki)
 Nazwa lustrzanka pochodzi od zamontowanego wewnątrz aparatu lustra, które rzuca obraz
 „wyłapywany” przez obiektyw na matówkę. Jedną z ważnych cech lustrzanek jest możliwość
 stosowania wymiennych obiektywów oraz akcesoriów do jednego korpusu. Lustrzanki są
@@ -75,7 +75,7 @@ więcej możliwości rejestracji zdjęć. Obraz w wyższej klasie lustrzanek poc
 jest niemal identyczny z rejestrowanym zdjęciem, ponieważ wizjer połączony jest optycznie z
 obiektywem. Tak więc można obserwować na bieżąco ostrość, z jaką wykonywane jest zdjęcie.
 
-
+## Podsumowanie
 **Technologia CMOS** : Matryca CMOS zawiera światłoczułe elementy, które są odczytywane
 indywidualnie, co pozwala na szybki dostęp do danych. Jest efektywna energetycznie i mniej
 podatna na zakłócenia. Stosowana w aparatach cyfrowych, kamerach internetowych i
