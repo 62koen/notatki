@@ -83,22 +83,25 @@ analogowo-cyfrowych, mikrosoczewek i filtrów barwnych (np. Bayer).
 
 **Porównanie CCD i CMOS** :
 1. **Szybkość zapisu danych** :
-    ○ CCD: Wolny zapis
-    ○ CMOS: Szybki zapis
+- CCD: Wolny zapis
+- CMOS: Szybki zapis
+
 2. **Szumy** :
-    ○ CCD: Mniejsze szumy
-    ○ CMOS: Większe szumy
+- CCD: Mniejsze szumy
+- CMOS: Większe szumy
+    
 3. **Pobór mocy i żywotność baterii** :
-    ○ CCD: Większy pobór mocy (krótsza żywotność baterii)
-    ○ CMOS: Mniejszy pobór mocy (dłuższa żywotność baterii)
+- CCD: Większy pobór mocy (krótsza żywotność baterii)
+- CMOS: Mniejszy pobór mocy (dłuższa żywotność baterii)
+    
 4. **Współczynnik wypełnienia i obwody elektryczne** :
-    ○ CCD: Większy współczynnik wypełnienia (mniej obwodów zasłaniających
-       światło)
-    ○ CMOS: Mniejszy współczynnik wypełnienia (więcej obwodów zasłaniających
-       światło)
+- CCD: Większy współczynnik wypełnienia (mniej obwodów zasłaniających światło)
+- CMOS: Mniejszy współczynnik wypełnienia (więcej obwodów zasłaniających światło)
+
 **Aparaty kompaktowe** : Mają wbudowany obiektyw i lampę błyskową, oferują automatyczne
 ustawienia, co ułatwia robienie dobrych zdjęć bez znajomości fotografii. Różnią się od
 lustrzanek mniejszą matrycą i ograniczoną liczbą funkcji.
+
 **Aparaty lustrzane (lustrzanki)** : Posiadają lustro, które odbija obraz z obiektywu, umożliwiając
 podgląd przez wizjer. Są większe, cięższe i droższe, ale oferują możliwość wymiany obiektywów
 i większą kontrolę nad zdjęciem.
