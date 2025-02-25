@@ -140,31 +140,20 @@
 - jede Woche – każdego tygodnia
 
 
-## Obrazek - ostatni zdjęcie z prezentacji
+## Opis obrazka
 
-**In welcher Stimmung ist das Mädchen?**  
+**In welcher Stimmung ist das Mädchen?** - W jakim nastroju jest dziewczynka?
 - Das Mädchen wirkt glücklich und konzentriert. Es scheint Spaß an der Aktivität zu haben.
-
-**Spielt das Mädchen ein Match oder trainiert es?**  
-- Es sieht so aus, als würde das Mädchen trainieren. Es konzentriert sich auf die Übungen und verbessert seine Fähigkeiten.
-
-**Trainierst du auch eine Sportart? Welche und warum?**  
-- Ja, ich trainiere Fußball. Ich spiele Fußball, weil es mir Spaß macht und ich fit bleiben möchte.
-
-**Was tust du, um fit zu bleiben?**  
-- Um fit zu bleiben, gehe ich regelmäßig joggen, mache Krafttraining und achte auf eine gesunde Ernährung. Außerdem spiele ich oft Fußball mit Freunden.
-
-
-## Tłumaczenie
-
-**W jakim nastroju jest dziewczynka?**  
 - Dziewczynka wygląda na szczęśliwą i skoncentrowaną. Wydaje się, że sprawia jej to przyjemność.
 
-**Czy dziewczynka gra mecz, czy trenuje?**  
+**Spielt das Mädchen ein Match oder trainiert es?** - Czy dziewczynka gra mecz, czy trenuje?
+- Es sieht so aus, als würde das Mädchen trainieren. Es konzentriert sich auf die Übungen und verbessert seine Fähigkeiten.
 - Wygląda na to, że dziewczynka trenuje. Koncentruje się na ćwiczeniach i doskonali swoje umiejętności.
 
-**Czy trenujesz jakiś sport? Jaki i dlaczego?**  
+**Trainierst du auch eine Sportart? Welche und warum?** - Czy trenujesz jakiś sport? Jaki i dlaczego?
+- Ja, ich trainiere Fußball. Ich spiele Fußball, weil es mir Spaß macht und ich fit bleiben möchte.
 - Tak, trenuję piłkę nożną. Gram w piłkę nożną, ponieważ sprawia mi to przyjemność i chcę pozostać w dobrej formie.
 
-**Co robisz, aby być w formie?**  
+**Was tust du, um fit zu bleiben?** - Co robisz, aby być w formie?
+- Um fit zu bleiben, gehe ich regelmäßig joggen, mache Krafttraining und achte auf eine gesunde Ernährung. Außerdem spiele ich oft Fußball mit Freunden.
 - Aby być w formie, regularnie biegam, trenuję siłowo i dbam o zdrową dietę. Poza tym często gram w piłkę nożną z przyjaciółmi.
