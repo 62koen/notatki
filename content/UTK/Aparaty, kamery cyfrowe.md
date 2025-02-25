@@ -42,11 +42,11 @@ sobą rzędu drugiego, który z kolei pociąga rząd trzeci itd. W ten sposób w
 kolejno odczytane w rejestratorze.
 
 **1. Szybkość zapisu danych**
-CCD: Wolny zapis danych
-CMOS: Szybki zapis danych
+    - CCD: Wolny zapis danych
+    - CMOS: Szybki zapis danych
 **2. Szumy**
-CCD: Mniejsze szumy
-CMOS: Większe szumy
+- CCD: Mniejsze szumy
+- CMOS: Większe szumy
 **3. Pobór mocy i żywotność baterii**
 CCD: Większy pobór mocy (krótsza żywotność baterii)
 CMOS: Mniejszy pobór mocy (dłuższa żywotność baterii)
