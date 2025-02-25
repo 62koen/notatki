@@ -42,19 +42,17 @@ sobą rzędu drugiego, który z kolei pociąga rząd trzeci itd. W ten sposób w
 kolejno odczytane w rejestratorze.
 
 **1. Szybkość zapisu danych**
-    - CCD: Wolny zapis danych
-    - CMOS: Szybki zapis danych
+- CCD: Wolny zapis danych
+- CMOS: Szybki zapis danych
 **2. Szumy**
 - CCD: Mniejsze szumy
 - CMOS: Większe szumy
 **3. Pobór mocy i żywotność baterii**
-CCD: Większy pobór mocy (krótsza żywotność baterii)
-CMOS: Mniejszy pobór mocy (dłuższa żywotność baterii)
+- CCD: Większy pobór mocy (krótsza żywotność baterii)
+- CMOS: Mniejszy pobór mocy (dłuższa żywotność baterii)
 **4. Współczynnik wypełnienia i obwody elektryczne**
-CCD: Większy współczynnik wypełnienia (mniej obwodów elektrycznych zasłaniających światło
-dostające się do fotoelementów)
-CMOS: Mniejszy współczynnik wypełnienia (więcej obwodów elektrycznych zasłaniających
-światło dostające się do fotoelementów)
+- CCD: Większy współczynnik wypełnienia (mniej obwodów elektrycznych zasłaniających światło dostające się do fotoelementów)
+- CMOS: Mniejszy współczynnik wypełnienia (więcej obwodów elektrycznych zasłaniających światło dostające się do fotoelementów)
 
 ## Aparaty kompaktowe
 W aparacie kompaktowym obiektyw i lampa błyskowa są wbudowane na stałe. Aparaty te mają
@@ -76,20 +74,13 @@ jest niemal identyczny z rejestrowanym zdjęciem, ponieważ wizjer połączony j
 obiektywem. Tak więc można obserwować na bieżąco ostrość, z jaką wykonywane jest zdjęcie.
 
 ## Podsumowanie
-**Technologia CMOS** : Matryca CMOS zawiera światłoczułe elementy, które są odczytywane
-indywidualnie, co pozwala na szybki dostęp do danych. Jest efektywna energetycznie i mniej
-podatna na zakłócenia. Stosowana w aparatach cyfrowych, kamerach internetowych i
-lustrzankach cyfrowych.
-**Budowa matrycy CMOS** : Składa się z fotodiod, wzmacniaczy, przetworników
+- **Technologia CMOS** : Matryca CMOS zawiera światłoczułe elementy, które są odczytywane indywidualnie, co pozwala na szybki dostęp do danych. Jest efektywna energetycznie i mniej podatna na zakłócenia. Stosowana w aparatach cyfrowych, kamerach internetowych i lustrzankach cyfrowych.
+- **Budowa matrycy CMOS**: Składa się z fotodiod, wzmacniaczy, przetworników
 analogowo-cyfrowych, mikrosoczewek i filtrów barwnych (np. Bayer).
-**Technologia CCD** : Matryca CCD rejestruje światło, generując ładunki, które są przesyłane do
-odczytu. Zapewnia wysoką jakość obrazu, ale jest mniej efektywna energetycznie niż CMOS.
-Stosowana w profesjonalnych aparatach i teleskopach.
-**Odczyt danych w technologii CCD** : Odczyt polega na przesuwaniu ładunków z kolejnych
-rzędów elementów matrycy, gdzie każdy rząd przesuwa się, „pociągając” za sobą następny, aż
-cały obszar obrazu zostanie odczytany.
-**Porównanie CCD i CMOS** :
+- **Technologia CCD** : Matryca CCD rejestruje światło, generując ładunki, które są przesyłane do odczytu. Zapewnia wysoką jakość obrazu, ale jest mniej efektywna energetycznie niż CMOS. Stosowana w profesjonalnych aparatach i teleskopach.
+- **Odczyt danych w technologii CCD** : Odczyt polega na przesuwaniu ładunków z kolejnych rzędów elementów matrycy, gdzie każdy rząd przesuwa się, „pociągając” za sobą następny, aż cały obszar obrazu zostanie odczytany.
 
+**Porównanie CCD i CMOS** :
 1. **Szybkość zapisu danych** :
     ○ CCD: Wolny zapis
     ○ CMOS: Szybki zapis
