@@ -3,8 +3,7 @@
 
 ![[https://raw.githubusercontent.com/62koen/notatki/refs/heads/v4/attachments/SQL/zad-bd.jpg]]
 ## Import pliku txt
-- Po utworzeniu tabeli
-
+- Po utworzeniu tabeli i wypełnieniu tabeli *farby* oraz samym utworzeniu tabeli *malowanie* przechodzimy do zakładki "Importuj" w phpMyAdmin. Tam wybieramy typ pliku  CSV, a w "Columns separated with:" (czyli Kolumny oddzielone:) zamiast średnika lub przecinka jest po prostu spacja - bo tak oddzielone są kolumny w naszym pliku malowanie.txt. Wybieramy plik z naszego komputera i powinniśmy mieć zaimportowane dane do tabeli malowanie.
 ## Kwerendy z zadania
 1. 
 ```sql 
@@ -12,9 +11,9 @@ SELECT cena FROM farby WHERE kolor="niebieski";
 ``` 
 2. 
 ```sql
-SELECT kolor FROM farby, malowanie
+SELECT kolor, cena/pojemnosc FROM farby
 ```
 3. 
 ```sql
-SELECT farby.kolor from farby, malowanie WHERE farby.id_farby=malowanie.id_farby AND malowanie.id_pomieszczenia='3';
+SELECT farby.kolor FROM farby, malowanie WHERE farby.id_farby=malowanie.id_farby AND malowanie.id_pomieszczenia='3';
 ```
