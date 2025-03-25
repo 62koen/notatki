@@ -16,7 +16,7 @@
 - **jonowe** - Kationy i aniony przyciągają się elektrostatycznie i tworzą kryształy jonowe.
 ## Określanie ilości wiązań typu sigma i pi
 Są to wiązania kowalencyjne. Wiązania typu sigma (σ), czyli wiązania pojedyncze są tworzone przez dwa elektrony (parę), a wiązania typu pi (π) są każdym dodatkowym wiązaniem w wiązaniu podwójnym lub potrójnym; nie występują samodzielnie.
-![[https://paniodchemii.pl/wp-content/uploads/2022/04/wiazanie-sigma-pi-1024x380.png]]
+![](https://paniodchemii.pl/wp-content/uploads/2022/04/wiazanie-sigma-pi-1024x380.png)
 ## Określanie rodzaju wiązania na podstawie różnicy elektroujemności pierwiastków
 *ΔE - elektroujemność*
 - **Wiązanie kowalencyjne niespolaryzowane**
@@ -41,7 +41,7 @@ Np.
 - **Wiązanie jonowe**
 ## Właściwości związków z wiązaniem kowalencyjnym i jonowym
 Podręcznik str. 59
-![[https://raw.githubusercontent.com/62koen/notatki/refs/heads/v4/attachments/Chemia/W%C5%82a%C5%9Bciwo%C5%9Bci%20substancji%20wi%C4%85zania.jpg]]
+![](https://raw.githubusercontent.com/62koen/notatki/refs/heads/v4/attachments/Chemia/W%C5%82a%C5%9Bciwo%C5%9Bci%20substancji%20wi%C4%85zania.jpg)
 ## Równania otrzymywania jonów
 Podręcznik str. 50
-![[https://raw.githubusercontent.com/62koen/notatki/refs/heads/v4/attachments/Chemia/R%C3%B3wnania%20otrzymywania%20jon%C3%B3w.jpg]]
+![](https://raw.githubusercontent.com/62koen/notatki/refs/heads/v4/attachments/Chemia/R%C3%B3wnania%20otrzymywania%20jon%C3%B3w.jpg)

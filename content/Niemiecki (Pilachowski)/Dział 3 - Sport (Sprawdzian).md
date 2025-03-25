@@ -141,7 +141,9 @@
 
 
 ## Opis obrazka
-![[https://raw.githubusercontent.com/62koen/notatki/refs/heads/v4/attachments/Niemiecki/Sport%20-%20opis%20zdj%C4%99cia.png]]
+
+![](https://raw.githubusercontent.com/62koen/notatki/refs/heads/v4/attachments/Niemiecki/Sport%20-%20opis%20zdj%C4%99cia.png)
+
 **In welcher Stimmung ist das Mädchen?** - W jakim nastroju jest dziewczynka?
 - Das Mädchen wirkt glücklich und konzentriert. Es scheint Spaß an der Aktivität zu haben.
 - Dziewczynka wygląda na szczęśliwą i skoncentrowaną. Wydaje się, że sprawia jej to przyjemność.
