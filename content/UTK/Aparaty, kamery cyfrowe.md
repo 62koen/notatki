@@ -38,12 +38,12 @@ sobą w taki sposób „sprzężone”, że przesunięcie pierwszego rzędu powo
 sobą rzędu drugiego, który z kolei pociąga rząd trzeci itd. W ten sposób wszystkie rzędy zostają
 kolejno odczytane w rejestratorze.
 
-| Matryca CCD                                                                                                        | Matryca CMOS                                                                                                         |
-| ------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- |
-| Wolny zapis danych                                                                                                 | Szybki zapis danych                                                                                                  |
-| Mniejsze szumy                                                                                                     | Większe szumy                                                                                                        |
-| Większy pobór mocy (krótsza żywotność baterii)                                                                     | Mniejszy pobór mocy (dłuższa żywotność baterii)                                                                      |
-| Większy współczynnik wypełnienia (mniej obwodów elektrycznych zasłaniających światło dostaje się do fotoelementów) | Mniejszy współczynnik wypełnienia (więcej obwodów elektrycznych zasłaniających światło dostaje się do fotoelementów) |
+| CCD                                                                             | CMOS                                                                              |
+| ------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| **Wolny** zapis                                                                 | **Szybki** zapis                                                                  |
+| **Mniejsze** szumy                                                              | **Większe** szumy                                                                 |
+| **Większy** pobór mocy (**krótsza** żywotność baterii)                          | **Mniejszy** pobór mocy (**dłuższa** żywotność baterii)                           |
+| **Większy** współczynnik wypełnienia (**mniej** obwodów zasłaniających światło) | **Mniejszy** współczynnik wypełnienia (**więcej** obwodów zasłaniających światło) |
 
 ## Typy aparatów cyfrowych
 #### Aparaty kompaktowe
@@ -109,8 +109,10 @@ Do podstawowych elementów składowych kamery należą: obiektyw, sensor obrazu,
 | **Większy** pobór mocy (**krótsza** żywotność baterii)                          | **Mniejszy** pobór mocy (**dłuższa** żywotność baterii)                           |
 | **Większy** współczynnik wypełnienia (**mniej** obwodów zasłaniających światło) | **Mniejszy** współczynnik wypełnienia (**więcej** obwodów zasłaniających światło) |
 ## Typy aparatów
-- **Aparaty kompaktowe** : Mają wbudowany obiektyw i lampę błyskową, oferują automatyczne ustawienia, co ułatwia robienie dobrych zdjęć bez znajomości fotografii. Różnią się od lustrzanek mniejszą matrycą i ograniczoną liczbą funkcji.
-- **Aparaty lustrzane (lustrzanki)**: Posiadają lustro, które odbija obraz z obiektywu, umożliwiając podgląd przez wizjer. Są większe, cięższe i droższe, ale oferują możliwość wymiany obiektywów i większą kontrolę nad zdjęciem.
+#### Aparaty kompaktowe
+Mają wbudowany obiektyw i lampę błyskową, oferują automatyczne ustawienia, co ułatwia robienie dobrych zdjęć bez znajomości fotografii. Różnią się od lustrzanek mniejszą matrycą i ograniczoną liczbą funkcji.
+#### Aparaty lustrzane (lustrzanki)
+Posiadają lustro, które odbija obraz z obiektywu, umożliwiając podgląd przez wizjer. Są większe, cięższe i droższe, ale oferują możliwość wymiany obiektywów i większą kontrolę nad zdjęciem.
 ## Pojęcia
 - **Balans bieli** – kompensacja barwy światła z różnych źródeł, eliminująca np. żółty odcień światła żarowego.
 - **Efekt „czerwonych oczu”** – czerwone plamki w oczach na zdjęciach wykonanych z lampą błyskową umieszczoną blisko obiektywu.
