@@ -10,6 +10,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       Kod: "https://github.com/62koen/notatki",
       "Wygląd inspirowany aplikacją Obsidian": "https://obsidian.md",
+      "Każda notatka, jeśli nie napisano inaczej, jest udostępniona w domenie publicznej na zasadach CC0 1.0": "https://creativecommons.org/publicdomain/zero/1.0/deed.pl"
     },
   }),
 }
