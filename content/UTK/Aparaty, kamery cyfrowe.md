@@ -97,11 +97,13 @@ Do podstawowych elementów składowych kamery należą: obiektyw, sensor obrazu,
 - Sygnały te dochodzą do mikroprocesora wytwarzającego odpowiednie sygnały sterujące silnik ostrości obiektywu, który dopóty obraca pierścień ostrości, dopóki nie nastąpi zrównanie sygnałów A i B. Układ AF z czujnikiem CCD nie działa niestety prawidłowo lub w ogóle przestaje działać, jeżeli obserwowany obiekt nie zawiera żadnych szczegółów, np. gdy kamerę skieruje się na białą ścianę lub kontrastowe poziome pasy lub gdy oświetlenie jest zbyt słabe. W tych przypadkach należy przejść na ręczne sterowanie ostrością. Zaletą układu CCD jest możność stosowania go przy dowolnym obiektywie, również przy teleobiektywie.
 # Podsumowanie
 ## Matryce
-- **Technologia CMOS** : Matryca CMOS zawiera światłoczułe elementy, które są odczytywane indywidualnie, co pozwala na szybki dostęp do danych. Jest efektywna energetycznie i mniej podatna na zakłócenia. Stosowana w aparatach cyfrowych, kamerach internetowych i lustrzankach cyfrowych.
-- **Budowa matrycy CMOS** : Składa się z fotodiod, wzmacniaczy, przetworników analogowo-cyfrowych, mikrosoczewek i filtrów barwnych (np. Bayer).
-- **Technologia CCD** : Matryca CCD rejestruje światło, generując ładunki, które są przesyłane do odczytu. Zapewnia wysoką jakość obrazu, ale jest mniej efektywna energetycznie niż CMOS. Stosowana w profesjonalnych aparatach i teleskopach.
-- **Odczyt danych w technologii CCD** : Odczyt polega na przesuwaniu ładunków z kolejnych rzędów elementów matrycy, gdzie każdy rząd przesuwa się, „pociągając” za sobą następny, aż cały obszar obrazu zostanie odczytany.
-#### **Porównanie CCD i CMOS** :
+### CMOS
+- Matryca CMOS zawiera światłoczułe elementy, które są odczytywane indywidualnie, co pozwala na szybki dostęp do danych. Jest efektywna energetycznie i mniej podatna na zakłócenia. Stosowana w aparatach cyfrowych, kamerach internetowych i lustrzankach cyfrowych.
+- Składa się z fotodiod, wzmacniaczy, przetworników analogowo-cyfrowych, mikrosoczewek i filtrów barwnych (np. Bayera).
+### CCD
+- Matryca CCD rejestruje światło, generując ładunki, które są przesyłane do odczytu. Zapewnia wysoką jakość obrazu, ale jest mniej efektywna energetycznie niż CMOS. Stosowana w profesjonalnych aparatach i teleskopach.
+- Odczyt polega na przesuwaniu ładunków z kolejnych rzędów elementów matrycy, gdzie każdy rząd przesuwa się, „pociągając” za sobą następny, aż cały obszar obrazu zostanie odczytany.
+### **Porównanie CCD i CMOS** :
 | CCD                                                                             | CMOS                                                                              |
 | ------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | **Wolny** zapis                                                                 | **Szybki** zapis                                                                  |
@@ -116,12 +118,12 @@ Posiadają lustro, które odbija obraz z obiektywu, umożliwiając podgląd prze
 ## Pojęcia
 - **Balans bieli** – kompensacja barwy światła z różnych źródeł, eliminująca np. żółty odcień światła żarowego.
 - **Efekt „czerwonych oczu”** – czerwone plamki w oczach na zdjęciach wykonanych z lampą błyskową umieszczoną blisko obiektywu.
-- **Ekspozycja** – ilość światła wpadającego do aparatu, zależna od jego intensywności i czasu naświetlania (E = 1xt).
-## Budowa i działanie cyfrowej kamery wideo
+- **Ekspozycja** – ilość światła wpadającego do aparatu, zależna od jego intensywności i czasu naświetlania (E = 1 x t).
+## Kamery cyfrowe
 - Cyfrowa kamera wideo rejestruje obraz na nośniku cyfrowym (np. karta pamięci, dysk, płyta DVD).
-- **Główne elementy**: obiektyw, sensor obrazu, procesor sygnałowy, system zapisu, ekran LCD, autofocus i układy automatyczne (ekspozycja, balans bieli)
+- Jej główne elementy to: obiektyw, sensor obrazu, procesor sygnałowy, system zapisu, ekran LCD, autofocus i układy automatyczne (ekspozycja, balans bieli). ([[#Budowa kamery|Zdjęcie budowy]])
 - Obraz jest przekształcany z sygnału analogowego na cyfrowy przez przetwornik A/C. Głębia bitowa 8-bitowego przetwornika to 256 wartości na kanał (RGB), co daje 24-bitowy „true color”.
-#### Układy AF
-- **Ultradźwiękowy AF** działa jak echosonda – przetwornik piezoelektryczny wysyła fale ultradźwiękowe, które odbijają się od obiektu i wracają do odbiornika. Na podstawie opóźnienia sygnału sterowany jest silnik ostrości. System może popełniać błędy przy obiektach za szybą lub poza centrum kadru.  
+### Układy AF
+- **Ultradźwiękowy AF** działa jak echosonda – przetwornik piezoelektryczny wysyła fale ultradźwiękowe, które odbijają się od obiektu i wracają do odbiornika. Na podstawie opóźnienia sygnału sterowany jest silnik ostrości. System może popełniać błędy przy obiektach za szybą lub poza centrum kadru. ([[#Układ ultradźwiękowy|Zdjęcie schematu]])
 - **AF na podczerwień** wykorzystuje diodę LED emitującą promieniowanie IR, które odbija się od obiektu i trafia do odbiornika. Położenie wiązki na fotodiodach A i B steruje ustawieniem ostrości. Do wzmocnienia sygnału oraz sterowania silnikiem używane są wzmacniacz, komparator amplitudy i układ sterujący. System działa niezależnie od oświetlenia, sprawdzając się nawet w ciemności.  
 - **Układ AF z czujnikiem CCD** zawiera 24 pary fotodiod w układzie liniowym (5 mm). Strumień świetlny jest dzielony: 70% trafia do przetwornika, 30% do czujnika CCD. Fotodiody z mikrosoczewkami tworzą grupy A i B. Działa jak optyczny dalmierz – obraz dzieli się na dwie części, które schodzą się przy prawidłowej ostrości. Gdy ostrość jest niepoprawna, sygnały A i B różnią się, wskazując błąd. Mikroprocesor steruje silnikiem obiektywu do wyrównania sygnałów A i B. Układ nie działa przy braku szczegółów lub słabym świetle. Jest kompatybilny z różnymi obiektywami, w tym teleobiektywami.
