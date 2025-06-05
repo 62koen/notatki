@@ -40,8 +40,9 @@ Drobna uwaga: pytania i odpowiedzi są jedynie prawdopodobne i odczytane z konte
 	- dir ????c.*
 - (Obraz) Co należy zmienić aby móc wydrukować na rozmiarze B5?
 	- Format
-- (Obraz z adresacją karty) Czemu strona www nie działa?
-	- Nie ma adresu IP serwera DNS
+- 
+- Host www.wp.pl ma przypisany adres IP 212.77.98.9. Co jest przyczyną sytuacji przedstawionej na zrzucie ekranowym?
+	- błędny adres DNS
 - Na jakim porcie pracuje usługa IMAP?
 	- 143
 - Jaki jest serwer czasu?
@@ -50,20 +51,20 @@ Drobna uwaga: pytania i odpowiedzi są jedynie prawdopodobne i odczytane z konte
 	- Wine
 - Dodawanie liczb binarnych 1001101 + 11001
 	- 1100110, czyli 102
-- Które złącze DVI przesyła sygnał analogowy?
-	- DVI-A
-- Komenda sprawdzająca spójność plików w systemie Linux
+- (Obraz) Który standard złącza DVI umożliwia przesyłanie wyłącznie sygnału analogowego?
+	- DVI-A (1)
+- Komenda sprawdzająca spójność plików w systemie Linux / Program do sprawdzania uszkodzonych sektorow dysku w linuxie
 	- fsck
 - Czym jest RECUVA?
 	- Program do odzyskiwania skasowanych plików
-- W której EPROM używa się ultrafioletu?
-	- EPROM – Erasable Programmable Read-Only Memory
+- Rodzaj pamieci trwalej tylko do odczytu ktora mozna (chyba) usunac tylko za pomoca lasera ultrafioletowego
+	- EPROM
 - Do czego służą programy Wireshark i CommView?
 	- Narzędzia do analizy ruchu sieciowego
-- Jaki plik został zedytowany aby połączyć się z PuTTy?
+- (filmik) Do wykonania zdalnego połączenia z serwerem Linux w sposób przedstawiony na filmie wymagana jest wcześniejsza konfiguracja serwera poprzez edycję pliku
 	- /etc/ssh/sshd_config
-- Co robi polecenie ``dd if=/dev/sfb of=/home/uzytkownik/Linux.iso``?
-	- Tworzy kopię dysku/obrazu systemu
+- W systemie Linux program dd, którego przykład zastosowania przedstawiono w ramce, pozwala na dd if=/dev/sdb of=/home/użytkownik/Linux.iso
+	- utworzenie obrazu nośnika danych.
 - Do czego służy polecenie gzip?
 	- Narzędzie do kompresji danych w systemie Linux
 - Wskaż pierwszy kolor żyły w standardzie T568A
@@ -76,11 +77,12 @@ Drobna uwaga: pytania i odpowiedzi są jedynie prawdopodobne i odczytane z konte
 	- Dodaje repozytorium pakietów w openSUSE
 - Sieć 172.16.0.0/16 z maską /18
 	- Podsieci: 172.16.0.0, 172.16.64.0, 172.16.128.0, 172.16.192.0
-- Wkręt torx
 - Jakie porty należy zablokować, aby zablokować usługę FTP?
 	- 20 i 21
-- Jakie jest najgorsze i najlepsze zabezpieczenie Wi-Fi?
-	- WEP i WPA2
+- Jakie jest najgorsze zabezpieczenie Wi-Fi?
+	- WEP
+- Jakie jest najlepsze zabezpieczenie Wi-Fi?
+	- WPA2
 - Aby sprawdzić minimalny czas ważności hasła w systemie Windows, stosuje się polecenie
 	- net accounts
 - Zamiana maski /26
@@ -127,9 +129,8 @@ Drobna uwaga: pytania i odpowiedzi są jedynie prawdopodobne i odczytane z konte
 	- ![](https://raw.githubusercontent.com/62koen/notatki/refs/heads/v4/attachments/Egzamin/podsieci.png)
 - Jakie urządzenie służy do wymiany danych pomiędzy różnymi sieciami
 	- Ruter
-- ![](https://raw.githubusercontent.com/62koen/notatki/refs/heads/v4/attachments/Egzamin/mac.jpg)
-Rysunek przedstawia konfigurację urządzenia WiFi. Wskaż, które stwierdzenie dotyczące konfiguracji jest prawdziwe:
-	- Filtrowanie adresów MAC jest wyłączone
+- Pierwszą czynnością niezbędną do zabezpieczenia rutera przed dostępem do jego panelu konfiguracyjnego przez osoby niepowołane jest
+	- Filtrowanie MAC
 - Gdzie występuje bęben światłoczuły
 	- W drukarce laserowej
 - Jak podłączyć zasób sieciowy
@@ -173,4 +174,33 @@ Rysunek przedstawia konfigurację urządzenia WiFi. Wskaż, które stwierdzenie 
 	- 255.255.255.192
 - W jakiej zakładce ustawiamy godziny dostępności drukarki
 	- Właściwości drukarki
-- 
+- Jak wyłączyć rozgłaszanie sieci bezprzewodowej
+	- (Wyłączyć SSID)
+- Do realizacji iloczynu logicznego z negacją należy użyć funktora
+	- NAND
+- Jakimi poleceniami aktualizujemy systemy Linux / Ubuntu i openSUSE
+	- APT i Zypper
+- Jaki protokół służy do wysyłania poczty
+	- SMTP
+- Spojrzenie z perspektywy rozmówcy oraz umiejętność wczucia się w jego emocje i sposób myślenia to rodzaj słuchania
+	- empatycznego
+- Co to jest trollowanie
+- Watomierz jest stosowany do pomiaru
+	- mocy czynnej
+- Najmniejszy rozmiar plyty glownej
+	- Mini-itx
+- Mapowanie sieciowe w linux
+	- mount
+- Którą technologię, opracowaną przez firmę NVIDIA, powinny wspierać dwie karty graficzne montowane w komputerze, aby możliwa była korelacja ich wzajemnej pracy
+	- SLI
+- który standard sieci bezprzewodowych korzysta z SAE
+	- WPA3
+- g
+Na rysunku przedstawiono grot wkrętaka typu
+	- Torx
+- Gdzie przechowywane są informacje o kontach użytkowników domenowych w systemach Windows Server?
+	- W bazie danych kontrolera domeny.
+- Tworzenie zaszyfrowanych połączeń między hostami przez sieć publiczną Internet, stosowane w połączeniach VPN (Virtual Private Network), to
+	- tunelowanie
+- Technologia Hyper- threading stosowana w procesorach umożliwia
+	- wykonywanie przez jeden rdzeń procesora dwóch niezależnych wątków jednocześnie.
