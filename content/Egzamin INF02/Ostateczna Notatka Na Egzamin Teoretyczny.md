@@ -7,26 +7,26 @@ Drobna uwaga: pytania i odpowiedzi są jedynie prawdopodobne i odczytane z konte
 - Jakie jest minimalne oświetlenie do pracy przy komputerze?
 	- 500 lumenów (500 lm)
 - ![](https://raw.githubusercontent.com/62koen/notatki/refs/heads/v4/attachments/Egzamin/magnes.jpg) Co oznacza ten znak?
-	- Pole magnetyczne
+	- Silne pole magnetyczne
 - Jaka komenda w systemie Ubuntu umożliwi dodanie istniejącego użytkownika do grupy
 	- usermod
 - Jaka jest choroba zawodowa (technika informatyka)?
 	- Cieśń nadgarstka
-- ![](https://raw.githubusercontent.com/62koen/notatki/refs/heads/v4/attachments/Egzamin/m2.jpg) Jaki dysk przedstawia zdjęcie?
-	- SSD M.2
+- ![](https://raw.githubusercontent.com/62koen/notatki/refs/heads/v4/attachments/Egzamin/m2.jpg) Co przedstawia zdjęcie?
+	- Dysk SSD M.2
 - Wskaż element pasywny sieci
 	- Panel krosowniczy / patch panel
-- Na drukarce pojawił się komunikat "503 PAPER JAM". Co spowodowało pojawienie się błędu?
-	- Zacięcie papieru w drukarce
-- Jaka jest najlepsza metoda zabezpieczania konta w mediach społecznościowych?
+- (Obraz komunikatu z drukarki - Paper Jam 382) Co to oznacza
+	- Zagięcie papieru w drukarce
+- Jak zabezpieczyć logowanie do konta w portalu społecznościowym
 	- Weryfikacja 2-etapowa
-- Jaka usługa pozwala na udostępnianie plików / drukarek w systemie Linux
+- Który z wymienionych jest serwerem plików na linux'ie / Jaka usługa pozwala na udostępnianie plików / drukarek w systemie Linux
 	- Samba
 - Elementem jakiej drukarki jest ekstruder?
 	- 3D
 - (Zdjęcie schematu bramek logicznych) Jaki jest wynik końcowy?
 	- x=1, y=0
-- Jaka usługa pozwala na zdalne instalowanie systemu Windows?
+- Co umożliwia serwerowi windows zdalne instalowanie systemów?
 	- WDS
 - Co umożliwia wirtualizację na Windows Server
 	- Hyper-V
@@ -38,7 +38,7 @@ Drobna uwaga: pytania i odpowiedzi są jedynie prawdopodobne i odczytane z konte
 	- AnyDesk
 - Jakiej komendy należy użyć, aby w systemie Windows wyświetlić pliki z dowolnym rozszerzeniem, których nazwa ma 5 liter i ostatnia to c
 	- dir ????c.*
-- W jakiej zakładce można zmienić rozmiar wydruku na B5?
+- (Obraz) Co należy zmienić aby móc wydrukować na rozmiarze B5?
 	- Format
 - (Obraz z adresacją karty) Czemu strona www nie działa?
 	- Nie ma adresu IP serwera DNS
@@ -149,4 +149,28 @@ Rysunek przedstawia konfigurację urządzenia WiFi. Wskaż, które stwierdzenie 
 - (Zdjęcie lutownicy)
 - (Obrazek z dwoma kośćmi RAM)
 	- Jedna jest 2 razy większa od drugiej
+- Jakiej anteny należy użyć w dalekim szybkim połączeniu punkt-punkt
+	- Kierunkowej o małym koncie propagacji i wysokim zysku energetycznym (XD)
+- Protokół stosowany przez usługi katalogowe, w tym Active Directory
+	- LDAP
+- Struktura zespołu minimalizująca wpływ pojedynczych osób na zadanie, jej głównym celem jest brak jednoznacznego lidera
+	- Kolektywna
+- Wybierz urządzenie wejścia
+	- Skaner
+- Zamień adres IP 192.168.100.250 na system binarny
+	- 11000000.10101000.01100100.11111010
+- (Film z WinBox'a) Co zostało zrobione na filmie
+	- Zaadresowano interfejsy ether2 i ether3
+- Która komenda zaadresuje interfejs LAN1 na <nie pamiętam adresu>/24 i jednocześnie go włączy
+	- ifconfig LAN1 (adres) netmask 255.255.255.0 up
+- Który protokół umożliwi dostęp do sieci do sieci za pośrednictwem loginu i hasła otrzymanego od ISP
+	- PPPoE
+- Która warstwa modelu TCP/IP odpowiada za pewność transmisji rozpoznając je po portach
+	- Transportowa
+- W którym standardzie wprowadzono OFDMA
+	- 802.11ax
+- Maska /26 na dziesiętne
+	- 255.255.255.192
+- W jakiej zakładce ustawiamy godziny dostępności drukarki
+	- Właściwości drukarki
 - 
