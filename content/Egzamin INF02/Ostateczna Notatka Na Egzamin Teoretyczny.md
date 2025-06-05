@@ -4,20 +4,20 @@ Drobna uwaga: pytania i odpowiedzi są jedynie prawdopodobne i odczytane z konte
 	- 3 dyski
 - Jakim poleceniem nadamy pełne uprawnienia (odczyt, zapis i wykonanie) właścicielowi pliku, a grupie i reszcie użytkownikom uprawnienia do odczytu i wykonania w systemie Linux?
 	- chmod 755
-- Jaka powinna być minimalna jasność światła w pomieszczeniu?
+- Jakie jest minimalne oświetlenie do pracy przy komputerze?
 	- 500 lumenów (500 lm)
 - Wskaż menedżer pakietów w systemie Ubuntu
 	- g
-- (Znak z magnesem) Co oznacza?
+- ![](https://raw.githubusercontent.com/62koen/notatki/refs/heads/v4/attachments/Egzamin/magnes.jpg) Co oznacza ten znak?
 	- Pole magnetyczne
 - Jakim poleceniem dodajemy użytkownika do grupy w systemie Linux?
 	- usermod
 - Jaka jest choroba zawodowa (technika informatyka)?
-	- g
+	- Cieśń nadgarstka
 - Wskaż emocjonalne objawy stresu
 	- g
-- ![](https://raw.githubusercontent.com/62koen/notatki/refs/heads/v4/attachments/Egzamin/m2.jpg)
-	- To dysk **SSD M.2**
+- ![](https://raw.githubusercontent.com/62koen/notatki/refs/heads/v4/attachments/Egzamin/m2.jpg) Jaki dysk przedstawia zdjęcie?
+	- SSD M.2
 - Wskaż element pasywny sieci
 	- Panel krosowniczy / patch panel
 - Na drukarce pojawił się komunikat "503 PAPER JAM". Co spowodowało pojawienie się błędu?
@@ -32,17 +32,71 @@ Drobna uwaga: pytania i odpowiedzi są jedynie prawdopodobne i odczytane z konte
 	- x=1, y=0
 - Jaka usługa pozwala na zdalne instalowanie systemu Windows?
 	- WDS
-- Jaki program pozwala na wirtualizację w Windows Server
+- Co umożliwia wirtualizację na Windows Server
 	- Hyper-V
-- Jaki rekord DNS stosuje się do zmapowania adresu IPv6 na domenę?
-	- AAAA / MX
-- Co powinno być włączone w BIOS komputera zgodnie z wymaganiami systemu Windows 11?
+- Jaki rekord umożliwia zamianę domeny na adres IPv6
+	- AAAA
+- Co według dokumentacji producenta musi być włączone w BIOS aby zainstalować system Windows 11
 	- TPM 2.0
-- Jaki program pozwala na zdalne używanie (?) komputera bez potrzeby przekierowania portów?
+- Jaki program umożliwi kontrolę hosta bez potrzeby robienia przekierowania
 	- AnyDesk
-- Jak wyszukamy plik z dowolnym rozszerzeniem i piątą literą "c"?
+- Jak wyszukamy plik z dowolnym rozszerzeniem i pięcioma literami w tym ostatnią "c"?
 	- ????c.*
 - Gdzie zmienić rozmiar wydruku na B5?
 	- Format
-- Dlaczego strona się nie wyświetla?
-	- Serwer DNS
+- (Obraz z adresacją karty) Czemu strona www nie działa?
+	- Nie ma adresu IP serwera DNS
+- Na jakim porcie pracuje usługa IMAP?
+	- 143
+- Jaki jest serwer czasu?
+	- NTP
+- Jaka aplikacja systemu Linux pozwala na uruchamianie programów z Windows?
+	- Wine
+- Dodawanie liczb binarnych 1001101 + 11001
+	- 1100110, czyli 102
+- Które złącze DVI przesyła sygnał analogowy?
+	- DVI-A
+- Komenda sprawdzająca spójność plików w systemie Linux
+	- fsck
+- Czym jest RECUVA?
+	- Program do odzyskiwania skasowanych plików
+- W której EPROM używa się ultrafioletu?
+	- EPROM – Erasable Programmable Read-Only Memory
+- Do czego służą programy Wireshark i CommView?
+	- Narzędzia do analizy ruchu sieciowego
+- Jaki plik został zedytowany aby połączyć się z PuTTy?
+	- /etc/ssh/sshd_config
+- Co robi polecenie ``dd if=/dev/sfb of=/home/uzytkownik/Linux.iso``?
+	- Tworzy kopię dysku/obrazu systemu
+- Do czego służy polecenie gzip?
+	- Narzędzie do kompresji danych w systemie Linux
+- Wskaż pierwszy kolor żyły w standardzie T568A
+	- biało-zielony
+- W jaki sposób można zwiększyć sygnał Wi-Fi?
+	- Użycie wzmacniacza sygnału (repeatera)
+- Jak wykonuje się kopię zapasową rejestru / kopiuje się rejestr?
+	- Eksportuj
+- Co robi polecenie zypper ar?
+	- Dodaje repozytorium pakietów w openSUSE
+- Sieć 172.16.0.0/16 z maską /18
+	- Podsieci: 172.16.0.0, 172.16.64.0, 172.16.128.0, 172.16.192.0
+- Wkręt torx
+- Jakie porty należy zablokować, aby zablokować usługę FTP?
+	- 20 i 21
+- Jakie jest najgorsze i najlepsze zabezpieczenie Wi-Fi?
+	- WEP i WPA2
+- Aby sprawdzić minimalny czas ważności hasła w systemie Windows, stosuje się polecenie
+	- net accounts
+- Zamiana maski /26
+	- 255.255.255.192
+- Który z protokołów to protokół stanu łącza
+	- OSPF
+- Co umożliwia pobieranie pakietów na Ubuntu
+	- Aptitude
+- Jaki jest emocjonalny objaw stresu
+	- Drażliwość i poczucie lęku
+- Do jakiego rutera można podpiąć światłowód
+	- Może to być ONT, ADSL
+- Które z tych narzędzi umożliwi otworzenie obudowy laptopa bez rys
+	- (Coś plastikowego)
+- (Obraz) Jaki port oznaczono nr. 8
