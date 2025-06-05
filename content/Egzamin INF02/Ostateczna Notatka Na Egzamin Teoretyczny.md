@@ -9,11 +9,40 @@ Drobna uwaga: pytania i odpowiedzi są jedynie prawdopodobne i odczytane z konte
 - Wskaż menedżer pakietów w systemie Ubuntu
 	- g
 - (Znak z magnesem) Co oznacza?
-	- Magnetyzację
+	- Pole magnetyczne
 - Jakim poleceniem dodajemy użytkownika do grupy w systemie Linux?
 	- usermod
 - Jaka jest choroba zawodowa (technika informatyka)?
 	- g
 - Wskaż emocjonalne objawy stresu
 	- g
-- ![[]]
+- ![](https://raw.githubusercontent.com/62koen/notatki/refs/heads/v4/attachments/Egzamin/m2.jpg)
+	- To dysk **SSD M.2**
+- Wskaż element pasywny sieci
+	- Panel krosowniczy / patch panel
+- Na drukarce pojawił się komunikat "503 PAPER JAM". Co spowodowało pojawienie się błędu?
+	- Zacięcie papieru w drukarce
+- Jaka jest najlepsza metoda zabezpieczania konta w mediach społecznościowych?
+	- Weryfikacja 2-etapowa
+- Jaka usługa pozwala na udostępnianie plików / drukarek w systemie Linux
+	- Samba
+- Elementem jakiej drukarki jest ekstruder?
+	- 3D
+- (Zdjęcie schematu bramek logicznych) Jaki jest wynik końcowy?
+	- x=1, y=0
+- Jaka usługa pozwala na zdalne instalowanie systemu Windows?
+	- WDS
+- Jaki program pozwala na wirtualizację w Windows Server
+	- Hyper-V
+- Jaki rekord DNS stosuje się do zmapowania adresu IPv6 na domenę?
+	- AAAA / MX
+- Co powinno być włączone w BIOS komputera zgodnie z wymaganiami systemu Windows 11?
+	- TPM 2.0
+- Jaki program pozwala na zdalne używanie (?) komputera bez potrzeby przekierowania portów?
+	- AnyDesk
+- Jak wyszukamy plik z dowolnym rozszerzeniem i piątą literą "c"?
+	- ????c.*
+- Gdzie zmienić rozmiar wydruku na B5?
+	- Format
+- Dlaczego strona się nie wyświetla?
+	- Serwer DNS
