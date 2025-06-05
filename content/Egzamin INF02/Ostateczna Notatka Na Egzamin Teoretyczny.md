@@ -124,4 +124,8 @@ Drobna uwaga: pytania i odpowiedzi są jedynie prawdopodobne i odczytane z konte
 	- U - brak ekranowania
 - Sieć 193.115.95.0/24 została podzielona na 8 równych podsieci. Jaka jest maska po rozdzieleniu?
 	- 255.255.255.224
-	- 
+	- ![](https://raw.githubusercontent.com/62koen/notatki/refs/heads/v4/attachments/Egzamin/podsieci.png)
+- Jakie urządzenie służy do wymiany danych pomiędzy różnymi sieciami
+	- Ruter
+- 
+Rysunek przedstawia konfigurację urządzenia WiFi. Wskaż, które stwierdzenie dotyczące konfiguracji jest prawdziwe:
