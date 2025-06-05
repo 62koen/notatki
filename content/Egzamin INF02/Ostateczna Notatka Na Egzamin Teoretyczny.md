@@ -2,20 +2,16 @@
 Drobna uwaga: pytania i odpowiedzi są jedynie prawdopodobne i odczytane z kontekstu. Nie są to żadne pewniaczki.
 - Ile dysków jest potrzebnych do utworzenia RAID 5?
 	- 3 dyski
-- Jakim poleceniem nadamy pełne uprawnienia (odczyt, zapis i wykonanie) właścicielowi pliku, a grupie i reszcie użytkownikom uprawnienia do odczytu i wykonania w systemie Linux?
+- Jakie uprawnienia trzeba dać aby właściciel miał pełne prawa do pliku a pozostali mieli prawo do odczytu i wykonania?
 	- chmod 755
 - Jakie jest minimalne oświetlenie do pracy przy komputerze?
 	- 500 lumenów (500 lm)
-- Wskaż menedżer pakietów w systemie Ubuntu
-	- g
 - ![](https://raw.githubusercontent.com/62koen/notatki/refs/heads/v4/attachments/Egzamin/magnes.jpg) Co oznacza ten znak?
 	- Pole magnetyczne
-- Jakim poleceniem dodajemy użytkownika do grupy w systemie Linux?
+- Jaka komenda w systemie Ubuntu umożliwi dodanie istniejącego użytkownika do grupy
 	- usermod
 - Jaka jest choroba zawodowa (technika informatyka)?
 	- Cieśń nadgarstka
-- Wskaż emocjonalne objawy stresu
-	- g
 - ![](https://raw.githubusercontent.com/62koen/notatki/refs/heads/v4/attachments/Egzamin/m2.jpg) Jaki dysk przedstawia zdjęcie?
 	- SSD M.2
 - Wskaż element pasywny sieci
@@ -40,8 +36,8 @@ Drobna uwaga: pytania i odpowiedzi są jedynie prawdopodobne i odczytane z konte
 	- TPM 2.0
 - Jaki program umożliwi kontrolę hosta bez potrzeby robienia przekierowania
 	- AnyDesk
-- Jak wyszukamy plik z dowolnym rozszerzeniem i pięcioma literami w tym ostatnią "c"?
-	- ????c.*
+- Jakiej komendy należy użyć, aby w systemie Windows wyświetlić pliki z dowolnym rozszerzeniem, których nazwa ma 5 liter i ostatnia to c
+	- dir ????c.*
 - Gdzie zmienić rozmiar wydruku na B5?
 	- Format
 - (Obraz z adresacją karty) Czemu strona www nie działa?
@@ -100,3 +96,32 @@ Drobna uwaga: pytania i odpowiedzi są jedynie prawdopodobne i odczytane z konte
 - Które z tych narzędzi umożliwi otworzenie obudowy laptopa bez rys
 	- (Coś plastikowego)
 - (Obraz) Jaki port oznaczono nr. 8
+![](https://raw.githubusercontent.com/62koen/notatki/refs/heads/v4/attachments/Egzamin/dp.png)
+	- DisplayPort
+- Jaki jest odpowiednik polecenia fsck na Windowsie?
+	- chkdsk
+- Na podstawie czego przełącznik przesyła dane (?)
+	- Adres MAC / fizyczny
+- Jakie uprawnienie w systemie Windows Server pozwoli jedynie na archiwizowanie danych
+	- Operatorzy kopii
+- Jaki jest odpowiednik RAID 1 na Windows
+	- Dublowany
+- Co robi UDT
+	- (może przesyła pakiety z dużą szybkością)
+- Sieć komputerowa powinna się charakteryzować rozbudowalnością, czyli
+	- Skalowalnością
+- Licencja GNU GPL
+	- (wolne oprogramowanie)
+- Co włącza się do utylizacji niebezpiecznych substancji
+	- Tonery (od drukarek)
+- Słuchanie empatyczne
+	- (?)
+- Kabel w którym każda para przewodów posiada folię i dodatkowo całość jest ekranowana folią to
+	- F/FTP
+	- Gdzie litera przed ukośnikiem to ekranowanie **całego kabla, na około**, a litera przed TP to ekranowanie **każdej pary**
+	- F - folia
+	- S - siatka
+	- U - brak ekranowania
+- Sieć 193.115.95.0/24 została podzielona na 8 równych podsieci. Jaka jest maska po rozdzieleniu?
+	- 255.255.255.224
+	- 
