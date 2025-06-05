@@ -20,31 +20,31 @@ Drobna uwaga: pytania i odpowiedzi są jedynie prawdopodobne i odczytane z konte
 	- 3 dyski
 - Jakie uprawnienia trzeba dać aby właściciel miał pełne prawa do pliku a pozostali mieli prawo do odczytu i wykonania?
 	- chmod 755
-- Jakie jest minimalne oświetlenie do pracy przy komputerze?
-	- 500 lumenów (500 lm)
+- Zgodnie z przepisami BHP minimalny poziom natężenia oświetlenia dla stanowisk do pracy z komputerem wynosi
+	- 500 lx dla pracy ciągłej.
 - ![](https://raw.githubusercontent.com/62koen/notatki/refs/heads/v4/attachments/Egzamin/magnes.jpg) Co oznacza ten znak?
 	- Silne pole magnetyczne
 - Jaka komenda w systemie Ubuntu umożliwi dodanie istniejącego użytkownika do grupy
 	- usermod
-- Jaka jest choroba zawodowa (technika informatyka)?
-	- Cieśń nadgarstka
+- Chorobą zawodową informatyka jest
+	- zespół cieśni nadgarstka.
 - ![](https://raw.githubusercontent.com/62koen/notatki/refs/heads/v4/attachments/Egzamin/m2.jpg) Co przedstawia zdjęcie?
 	- Dysk SSD M.2
-- Wskaż element pasywny sieci
-	- Panel krosowniczy / patch panel
+- Elementem pasywnym sieci komputerowej jest
+	- Panel krosowy
 - (Obraz komunikatu z drukarki - Paper Jam 382) Co to oznacza
 	- Zagięcie papieru w drukarce
 - Jak zabezpieczyć logowanie do konta w portalu społecznościowym
 	- Weryfikacja 2-etapowa
 - Który z wymienionych jest serwerem plików na linux'ie / Jaka usługa pozwala na udostępnianie plików / drukarek w systemie Linux
 	- Samba
-- Elementem jakiej drukarki jest ekstruder?
+- Ekstruder jest stosowany jako element drukarek
 	- 3D
 - (Zdjęcie schematu bramek logicznych) Jaki jest wynik końcowy?
 	- x=1, y=0
-- Co umożliwia serwerowi windows zdalne instalowanie systemów?
+- Która usługa Windows Serwer umożliwia zdalną oraz szybką instalację systemów klienckich Windows na komputerach podłączonych bezpośrednio do sieci LAN? / Usługa systemu Windows Server, służąca do zdalnej instalacji systemów operacyjnych na komputerach zarządzanych przez serwer, to
 	- WDS
-- Co umożliwia wirtualizację na Windows Server
+- Do wirtualizacji systemów operacyjnych w systemie Windows Server 2016 można wykorzystać funkcję serwera o nazwie
 	- Hyper-V
 - Jaki rekord umożliwia zamianę domeny na adres IPv6
 	- AAAA
@@ -61,9 +61,9 @@ Drobna uwaga: pytania i odpowiedzi są jedynie prawdopodobne i odczytane z konte
 	- Błędny adres serwera DNS lub brak połączenia z serwerem DNS.
 - Na jakim porcie pracuje usługa IMAP?
 	- 143
-- Jaki jest serwer czasu?
+- JKtóry protokół umożliwia synchronizację czasu?
 	- NTP
-- Jaka aplikacja systemu Linux pozwala na uruchamianie programów z Windows?
+- Które oprogramowanie należy zainstalować w systemie operacyjnym Linux, aby możliwe było uruchamianie aplikacji przeznaczonych dla systemu Windows?
 	- Wine
 - Wynikiem sumowania liczb binarnych 1001101 i 11001 jest
 	- 1100110
@@ -73,7 +73,7 @@ Drobna uwaga: pytania i odpowiedzi są jedynie prawdopodobne i odczytane z konte
 	- fsck
 - Aby odzyskać dane ze sformatowanego dysku twardego, należy wykorzystać program
 	- Recuva
-- Rodzaj pamieci trwalej tylko do odczytu ktora mozna (chyba) usunac tylko za pomoca lasera ultrafioletowego
+- Odmianą programowalnej pamięci tylko do odczytu, której zawartość można wykasować za pomocą promieni ultrafioletowych, jest pamięć
 	- EPROM
 - CommView i WireShark to programy stosowane do
 	- analizowania pakietów transmitowanych w sieci.
@@ -81,32 +81,32 @@ Drobna uwaga: pytania i odpowiedzi są jedynie prawdopodobne i odczytane z konte
 	- /etc/ssh/sshd_config
 - W systemie Linux program dd, którego przykład zastosowania przedstawiono w ramce, pozwala na dd if=/dev/sdb of=/home/użytkownik/Linux.iso
 	- utworzenie obrazu nośnika danych.
-- Do czego służy polecenie gzip?
-	- Narzędzie do kompresji danych w systemie Linux
+- Wskaż program systemu Linux, służący do kompresji danych.
+	- gzip
 - Kolor pierwszej żyły we wtyku 8P8C zaciśniętym zgodnie ze standardem T568A to
 	- biało-zielony
 - Które urządzenie spowoduje zwiększenie zasięgu sieci bezprzewodowej?
 	- Wzmacniacz
-- Jak wykonuje się kopię zapasową rejestru / kopiuje się rejestr?
+- Której funkcji należy użyć do wykonania kopii zapasowej rejestru systemowego w edytorze regedit?
 	- Eksportuj
-- Co robi polecenie zypper ar?
-	- Dodaje repozytorium pakietów w openSUSE
-- Sieć 172.16.0.0/16 z maską /18
-	- Podsieci: 172.16.0.0, 172.16.64.0, 172.16.128.0, 172.16.192.0
-- Jakie porty należy zablokować, aby zablokować usługę FTP?
+- W systemach Linux, aby dodać repozytorium, można użyć poleceń
+	- zypper ar oraz add-apt-repository
+- Dana jest sieć o adresie 172.16.0.0/16. Które z adresów sieci 172.16.0.0/16 są prawidłowe, jeśli zostaną wydzielone cztery podsieci o masce 18 bitowej?
+	- 172.16.0.0, 172.16.64.0, 172.16.128.0, 172.16.192.0
+- Które porty należy zablokować w zaporze sieciowej, aby uniemożliwić połączenie z serwerem FTP?
 	- 20 i 21
-- 
+- ![](https://raw.githubusercontent.com/62koen/notatki/refs/heads/v4/attachments/Egzamin/cv.jpg)
 - Wskaż zgodną z zasadami netykiety, formę oficjalnego e-maila zawierającego CV, który ma zostać wysłany do potencjalnego pracodawcy.
 	- 1
 - Który standard szyfrowania stosowany w sieciach bezprzewodowych zapewnia najniższy poziom bezpieczeństwa?
 	- WEP
-- Jakie jest najlepsze zabezpieczenie Wi-Fi?
+- Który typ zabezpieczeń w sieci WiFi posiada najlepszy poziom zabezpieczeń?
 	- WPA2
-- Aby sprawdzić minimalny czas ważności hasła w systemie Windows, stosuje się polecenie
+- Sprawdzenie minimalnego okresu ważności hasła w systemie Windows umożliwia polecenie
 	- net accounts
 - Zamiana maski /26
 	- 255.255.255.192
-- Który z protokołów to protokół stanu łącza
+- Wewnętrzny protokół trasowania, oparty na analizie stanu łącza, to
 	- OSPF
 - Co umożliwia pobieranie pakietów na Ubuntu
 	- Aptitude
@@ -119,45 +119,41 @@ Drobna uwaga: pytania i odpowiedzi są jedynie prawdopodobne i odczytane z konte
 - (Obraz) Jaki port oznaczono nr. 8
 ![](https://raw.githubusercontent.com/62koen/notatki/refs/heads/v4/attachments/Egzamin/dp.png)
 	- DisplayPort
-- Jaki jest odpowiednik polecenia fsck na Windowsie?
+- W systemach rodziny Windows, odpowiednikiem Linuksowego programu fsck, jest program
 	- chkdsk
-- Na podstawie czego przełącznik przesyła dane (?)
-	- Adres MAC / fizyczny
-- Jakie uprawnienie w systemie Windows Server pozwoli jedynie na archiwizowanie danych
-	- Operatorzy kopii
-- Jaki jest odpowiednik RAID 1 na Windows
+- Na podstawie którego adresu w przełączniku jest podejmowana decyzja o przesyłaniu ramki?
+	- Adresu docelowego MAC.
+- Do której grupy w systemie Windows Server należy przydzielić użytkownika odpowiedzialnego tylko za archiwizowanie danych przechowywanych na dysku serwera?
+	- Operatorzy kopii zapasowych
+- Odpowiednikiem macierzy RAID 1 w systemach Windows jest wolumin
 	- Dublowany
-- Co robi UDT
-	- (może przesyła pakiety z dużą szybkością)
-- Sieć komputerowa powinna się charakteryzować rozbudowalnością, czyli
+- Organ administracji państwowej, który został powołany w celu podejmowania działań zmierzających do zapewnienia prawidłowego i bezpiecznego działania urządzeń technicznych, to
+	- Urząd Dozoru Technicznego (UDT).
+- Aby zaprojektowaną sieć komputerową można było rozbudować, to powinna się ona charakteryzować
 	- Skalowalnością
-- Licencja GNU GPL
-	- (wolne oprogramowanie)
-- Co włącza się do utylizacji niebezpiecznych substancji
-	- Tonery (od drukarek)
-- Słuchanie empatyczne
-	- (?)
-- Kabel w którym każda para przewodów posiada folię i dodatkowo całość jest ekranowana folią to
+- (zdjęcie) Który typ licencji zapewnia użytkownikowi wszystkie 4 wolności zapisane w ramce?
+	- GNU GPL
+- Które elementy podlegają utylizacji w wyspecjalizowanych zakładach przetwarzania z uwagi na zawartość niebezpiecznych substancji lub pierwiastków chemicznych?
+	- Tonery
+- Kabel typu skrętka, w którym każda para przewodów znajduje się w osobnym ekranie z folii, przy czym wszystkie pary dodatkowo znajdują się w ekranie z folii, jest oznaczony symbolem
 	- F/FTP
 	- Gdzie litera przed ukośnikiem to ekranowanie **całego kabla, na około**, a litera przed TP to ekranowanie **każdej pary**
 	- F - folia
 	- S - siatka
 	- U - brak ekranowania
-- Sieć 193.115.95.0/24 została podzielona na 8 równych podsieci. Jaka jest maska po rozdzieleniu?
+- Którą maskę podsieci należy zastosować, aby podzielić sieć o adresie 193.115.95.0 z maską 255.255.255.0 na 8 równych podsieci.
 	- 255.255.255.224
 	- ![](https://raw.githubusercontent.com/62koen/notatki/refs/heads/v4/attachments/Egzamin/podsieci.png)
-- Jakie urządzenie służy do wymiany danych pomiędzy różnymi sieciami
+- Jakie urządzenie służy do wymiany danych pomiędzy różnymi sieciami / Aby była możliwa komunikacja między różnymi sieciami VLAN, należy zastosować
 	- Ruter
 - Pierwszą czynnością niezbędną do zabezpieczenia rutera przed dostępem do jego panelu konfiguracyjnego przez osoby niepowołane jest
 	- Filtrowanie MAC
-- Gdzie występuje bęben światłoczuły
-	- W drukarce laserowej
-- Jak podłączyć zasób sieciowy
-	- Poprzez mapowanie
-- Zasilanie SATA
-	- 12V
-- Ile dysków potrzeba do utworzenia RAID 1
-	- 2
+- Bęben światłoczuły jest stosowany w drukarkach
+	- laserowych
+- Urządzenie podłączone do zasilania wtykiem SATA, którego żółty przewód został uszkodzony, nie otrzyma napięcia o wartości
+	- 12 V
+- Aby możliwe było wykorzystanie macierzy RAID 1, potrzeba minimum
+	- 2 dysków
 - Liczba -18D (H) na binarny
 	- 1 0001 1000 1101(ZM)
 	- Znak liczby ujemnej w metodzie znak-moduł: 1
@@ -191,14 +187,14 @@ Drobna uwaga: pytania i odpowiedzi są jedynie prawdopodobne i odczytane z konte
 	- 802.11ax
 - Maska /26 na dziesiętne
 	- 255.255.255.192
-- W jakiej zakładce ustawiamy godziny dostępności drukarki
-	- Właściwości drukarki
+- W systemie Windows Professional do konfiguracji czasu dostępności drukarki należy wykorzystać zakładkę
+	- Zaawansowane we Właściwościach drukarki.
 - Jak wyłączyć rozgłaszanie sieci bezprzewodowej
 	- (Wyłączyć SSID)
 - Do realizacji iloczynu logicznego z negacją należy użyć funktora
 	- NAND
-- Jakimi poleceniami aktualizujemy systemy Linux / Ubuntu i openSUSE
-	- APT i Zypper
+- Do aktualizacji systemów Linux można wykorzystać programy
+	- apt-get i zypper
 - Protokołem wysyłania poczty elektronicznej jest
 	- Simple Mail Transfer Protocol. (SMTP)
 - Spojrzenie z perspektywy rozmówcy oraz umiejętność wczucia się w jego emocje i sposób myślenia to rodzaj słuchania
@@ -206,13 +202,15 @@ Drobna uwaga: pytania i odpowiedzi są jedynie prawdopodobne i odczytane z konte
 - Co to jest trollowanie
 - Watomierz jest stosowany do pomiaru
 	- mocy czynnej
-- Najmniejszy rozmiar plyty glownej
-	- Mini-itx
-- Mapowanie sieciowe w linux
+- Który typ płyty głównej ma najmniejsze rozmiary?
+	- Mini ITX
+- Aby w systemie Linux zmapować katalog udostępniony w sieci komputerowej, należy posłużyć się poleceniem
 	- mount
 - Którą technologię, opracowaną przez firmę NVIDIA, powinny wspierać dwie karty graficzne montowane w komputerze, aby możliwa była korelacja ich wzajemnej pracy
 	- SLI
-- który standard sieci bezprzewodowych korzysta z SAE
+- Który standard szyfrowania transmisji bezprzewodowej używa mechanizmu SAE (ang. Simultaneous Authentication of Equals) utrudniający ataki brute-force?
 	- WPA3
 - Który z adresów IP jest adresem publicznym?
 	- 172.168.0.16
+- Elementem służącym do utrwalania tonera na papierze podczas wydruku z drukarki laserowej jest
+	- wałek grzewczy
