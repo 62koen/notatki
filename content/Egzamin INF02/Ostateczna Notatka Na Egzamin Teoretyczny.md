@@ -1,5 +1,21 @@
 ## Pytania z przecieków
 Drobna uwaga: pytania i odpowiedzi są jedynie prawdopodobne i odczytane z kontekstu. Nie są to żadne pewniaczki.
+- ![](https://raw.githubusercontent.com/62koen/notatki/refs/heads/v4/attachments/Egzamin/torx.jpg)
+- Na rysunku przedstawiono grot wkrętaka typu
+	- Torx
+- Gdzie przechowywane są informacje o kontach użytkowników domenowych w systemach Windows Server?
+	- W bazie danych kontrolera domeny.
+- Tworzenie zaszyfrowanych połączeń między hostami przez sieć publiczną Internet, stosowane w połączeniach VPN (Virtual Private Network), to
+	- tunelowanie
+- Technologia Hyper- threading stosowana w procesorach umożliwia
+	- wykonywanie przez jeden rdzeń procesora dwóch niezależnych wątków jednocześnie.
+- System S.M.A.R.T. służy do monitorowania pracy i wykrywania błędów
+	- dysków twardych
+- Użytkownik systemu Windows często otrzymuje komunikaty o zbyt małej pamięci wirtualnej. Problem ten można rozwiązać przez modernizację komputera polegającą na
+	- zwiększeniu pamięci RAM.
+- 
+- Przedstawiony schemat organizacji zespołu projektowego jest przykładem struktury
+	- 
 - Ile dysków jest potrzebnych do utworzenia RAID 5?
 	- 3 dyski
 - Jakie uprawnienia trzeba dać aby właściciel miał pełne prawa do pliku a pozostali mieli prawo do odczytu i wykonania?
@@ -40,34 +56,34 @@ Drobna uwaga: pytania i odpowiedzi są jedynie prawdopodobne i odczytane z konte
 	- dir ????c.*
 - (Obraz) Co należy zmienić aby móc wydrukować na rozmiarze B5?
 	- Format
-- 
+- ![](https://raw.githubusercontent.com/62koen/notatki/refs/heads/v4/attachments/Egzamin/wp.png)
 - Host www.wp.pl ma przypisany adres IP 212.77.98.9. Co jest przyczyną sytuacji przedstawionej na zrzucie ekranowym?
-	- błędny adres DNS
+	- Błędny adres serwera DNS lub brak połączenia z serwerem DNS.
 - Na jakim porcie pracuje usługa IMAP?
 	- 143
 - Jaki jest serwer czasu?
 	- NTP
 - Jaka aplikacja systemu Linux pozwala na uruchamianie programów z Windows?
 	- Wine
-- Dodawanie liczb binarnych 1001101 + 11001
-	- 1100110, czyli 102
+- Wynikiem sumowania liczb binarnych 1001101 i 11001 jest
+	- 1100110
 - (Obraz) Który standard złącza DVI umożliwia przesyłanie wyłącznie sygnału analogowego?
 	- DVI-A (1)
-- Komenda sprawdzająca spójność plików w systemie Linux / Program do sprawdzania uszkodzonych sektorow dysku w linuxie
+- Użytkownik systemu Linux, chcąc przetestować dysk twardy pod kątem występowania na nim uszkodzonych sektorów, może użyć programu
 	- fsck
-- Czym jest RECUVA?
-	- Program do odzyskiwania skasowanych plików
+- Aby odzyskać dane ze sformatowanego dysku twardego, należy wykorzystać program
+	- Recuva
 - Rodzaj pamieci trwalej tylko do odczytu ktora mozna (chyba) usunac tylko za pomoca lasera ultrafioletowego
 	- EPROM
-- Do czego służą programy Wireshark i CommView?
-	- Narzędzia do analizy ruchu sieciowego
+- CommView i WireShark to programy stosowane do
+	- analizowania pakietów transmitowanych w sieci.
 - (filmik) Do wykonania zdalnego połączenia z serwerem Linux w sposób przedstawiony na filmie wymagana jest wcześniejsza konfiguracja serwera poprzez edycję pliku
 	- /etc/ssh/sshd_config
 - W systemie Linux program dd, którego przykład zastosowania przedstawiono w ramce, pozwala na dd if=/dev/sdb of=/home/użytkownik/Linux.iso
 	- utworzenie obrazu nośnika danych.
 - Do czego służy polecenie gzip?
 	- Narzędzie do kompresji danych w systemie Linux
-- Wskaż pierwszy kolor żyły w standardzie T568A
+- Kolor pierwszej żyły we wtyku 8P8C zaciśniętym zgodnie ze standardem T568A to
 	- biało-zielony
 - W jaki sposób można zwiększyć sygnał Wi-Fi?
 	- Użycie wzmacniacza sygnału (repeatera)
@@ -195,12 +211,3 @@ Drobna uwaga: pytania i odpowiedzi są jedynie prawdopodobne i odczytane z konte
 	- SLI
 - który standard sieci bezprzewodowych korzysta z SAE
 	- WPA3
-- g
-Na rysunku przedstawiono grot wkrętaka typu
-	- Torx
-- Gdzie przechowywane są informacje o kontach użytkowników domenowych w systemach Windows Server?
-	- W bazie danych kontrolera domeny.
-- Tworzenie zaszyfrowanych połączeń między hostami przez sieć publiczną Internet, stosowane w połączeniach VPN (Virtual Private Network), to
-	- tunelowanie
-- Technologia Hyper- threading stosowana w procesorach umożliwia
-	- wykonywanie przez jeden rdzeń procesora dwóch niezależnych wątków jednocześnie.
