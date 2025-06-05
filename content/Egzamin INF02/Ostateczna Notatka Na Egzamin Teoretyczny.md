@@ -38,7 +38,7 @@ Drobna uwaga: pytania i odpowiedzi są jedynie prawdopodobne i odczytane z konte
 	- AnyDesk
 - Jakiej komendy należy użyć, aby w systemie Windows wyświetlić pliki z dowolnym rozszerzeniem, których nazwa ma 5 liter i ostatnia to c
 	- dir ????c.*
-- Gdzie zmienić rozmiar wydruku na B5?
+- W jakiej zakładce można zmienić rozmiar wydruku na B5?
 	- Format
 - (Obraz z adresacją karty) Czemu strona www nie działa?
 	- Nie ma adresu IP serwera DNS
@@ -127,5 +127,26 @@ Drobna uwaga: pytania i odpowiedzi są jedynie prawdopodobne i odczytane z konte
 	- ![](https://raw.githubusercontent.com/62koen/notatki/refs/heads/v4/attachments/Egzamin/podsieci.png)
 - Jakie urządzenie służy do wymiany danych pomiędzy różnymi sieciami
 	- Ruter
-- 
+- ![](https://raw.githubusercontent.com/62koen/notatki/refs/heads/v4/attachments/Egzamin/mac.jpg)
 Rysunek przedstawia konfigurację urządzenia WiFi. Wskaż, które stwierdzenie dotyczące konfiguracji jest prawdziwe:
+	- Filtrowanie adresów MAC jest wyłączone
+- Gdzie występuje bęben światłoczuły
+	- W drukarce laserowej
+- Jak podłączyć zasób sieciowy
+	- Poprzez mapowanie
+- Zasilanie SATA
+	- 12V
+- Ile dysków potrzeba do utworzenia RAID 1
+	- 2
+- Liczba -18D (H) na binarny
+	- 1 0001 1000 1101(ZM)
+	- Znak liczby ujemnej w metodzie znak-moduł: 1
+	- Liczba 1 w 16: 0001
+	- Liczba 8 w 16: 1000
+	- Liczba D w 16: 1101 = 8+4+1=13
+- Co robi karta sieciowa sieć wewnętrzna w VirtualBox
+	- (Tworzy wirtualną sieć w obrębie programu)
+- (Zdjęcie lutownicy)
+- (Obrazek z dwoma kośćmi RAM)
+	- Jedna jest 2 razy większa od drugiej
+- 
