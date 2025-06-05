@@ -13,9 +13,9 @@ Drobna uwaga: pytania i odpowiedzi są jedynie prawdopodobne i odczytane z konte
 	- dysków twardych
 - Użytkownik systemu Windows często otrzymuje komunikaty o zbyt małej pamięci wirtualnej. Problem ten można rozwiązać przez modernizację komputera polegającą na
 	- zwiększeniu pamięci RAM.
-- 
+- ![](https://raw.githubusercontent.com/62koen/notatki/refs/heads/v4/attachments/Egzamin/organizacja.png)
 - Przedstawiony schemat organizacji zespołu projektowego jest przykładem struktury
-	- 
+	- eksperckiej.
 - Ile dysków jest potrzebnych do utworzenia RAID 5?
 	- 3 dyski
 - Jakie uprawnienia trzeba dać aby właściciel miał pełne prawa do pliku a pozostali mieli prawo do odczytu i wykonania?
@@ -85,8 +85,8 @@ Drobna uwaga: pytania i odpowiedzi są jedynie prawdopodobne i odczytane z konte
 	- Narzędzie do kompresji danych w systemie Linux
 - Kolor pierwszej żyły we wtyku 8P8C zaciśniętym zgodnie ze standardem T568A to
 	- biało-zielony
-- W jaki sposób można zwiększyć sygnał Wi-Fi?
-	- Użycie wzmacniacza sygnału (repeatera)
+- Które urządzenie spowoduje zwiększenie zasięgu sieci bezprzewodowej?
+	- Wzmacniacz
 - Jak wykonuje się kopię zapasową rejestru / kopiuje się rejestr?
 	- Eksportuj
 - Co robi polecenie zypper ar?
@@ -95,7 +95,10 @@ Drobna uwaga: pytania i odpowiedzi są jedynie prawdopodobne i odczytane z konte
 	- Podsieci: 172.16.0.0, 172.16.64.0, 172.16.128.0, 172.16.192.0
 - Jakie porty należy zablokować, aby zablokować usługę FTP?
 	- 20 i 21
-- Jakie jest najgorsze zabezpieczenie Wi-Fi?
+- 
+- Wskaż zgodną z zasadami netykiety, formę oficjalnego e-maila zawierającego CV, który ma zostać wysłany do potencjalnego pracodawcy.
+	- 1
+- Który standard szyfrowania stosowany w sieciach bezprzewodowych zapewnia najniższy poziom bezpieczeństwa?
 	- WEP
 - Jakie jest najlepsze zabezpieczenie Wi-Fi?
 	- WPA2
@@ -196,8 +199,8 @@ Drobna uwaga: pytania i odpowiedzi są jedynie prawdopodobne i odczytane z konte
 	- NAND
 - Jakimi poleceniami aktualizujemy systemy Linux / Ubuntu i openSUSE
 	- APT i Zypper
-- Jaki protokół służy do wysyłania poczty
-	- SMTP
+- Protokołem wysyłania poczty elektronicznej jest
+	- Simple Mail Transfer Protocol. (SMTP)
 - Spojrzenie z perspektywy rozmówcy oraz umiejętność wczucia się w jego emocje i sposób myślenia to rodzaj słuchania
 	- empatycznego
 - Co to jest trollowanie
@@ -211,3 +214,5 @@ Drobna uwaga: pytania i odpowiedzi są jedynie prawdopodobne i odczytane z konte
 	- SLI
 - który standard sieci bezprzewodowych korzysta z SAE
 	- WPA3
+- Który z adresów IP jest adresem publicznym?
+	- 172.168.0.16
