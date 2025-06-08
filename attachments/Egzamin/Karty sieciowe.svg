@@ -142,15 +142,15 @@
       <g class="com.sun.star.drawing.LineShape">
        <g id="id12">
         <rect class="BoundingBox" stroke="none" fill="none" x="2060" y="3553" width="301" height="516"/>
-        <path fill="none" stroke="rgb(0,0,0)" d="M 2210,4067 L 2210,3833 "/>
-        <path fill="rgb(0,0,0)" stroke="none" d="M 2060,3853 L 2210,3553 2360,3853 2060,3853 Z "/>
+        <path fill="none" stroke="rgb(255,255,255)" d="M 2210,4067 L 2210,3833 "/>
+        <path fill="rgb(255,255,255)" stroke="none" d="M 2060,3853 L 2210,3553 2360,3853 2060,3853 Z "/>
        </g>
       </g>
       <g class="com.sun.star.drawing.LineShape">
        <g id="id13">
         <rect class="BoundingBox" stroke="none" fill="none" x="2031" y="1832" width="301" height="488"/>
-        <path fill="none" stroke="rgb(0,0,0)" d="M 2181,1833 L 2181,2039 "/>
-        <path fill="rgb(0,0,0)" stroke="none" d="M 2331,2019 L 2181,2319 2031,2019 2331,2019 Z "/>
+        <path fill="none" stroke="rgb(255,255,255)" d="M 2181,1833 L 2181,2039 "/>
+        <path fill="rgb(255,255,255)" stroke="none" d="M 2331,2019 L 2181,2319 2031,2019 2331,2019 Z "/>
        </g>
       </g>
       <g class="com.sun.star.drawing.LineShape">
