@@ -97,4 +97,5 @@ Możemy iść dalej. Natomiast jeśli straszy nas czerwony komunikat, *mamy coś
 Poprawność adresów można sprawdzić ponownie poleceniem `ip a`, które teraz powinno wyświetlać wpisane przez nas wartości.
 
 Pan Wegner (zdecydowany autorytet w komputery) zaleca restart po zastosowaniu Netplana, więc wpisujemy: `sudo reboot`. Konfiguracja zakończona.
+Jeśli umiecie w angielski, tutaj jest oficjalna, szczegółowa dokumentacja: [Ubuntu Server - Configuring networks](https://documentation.ubuntu.com/server/explanation/networking/configuring-networks/index.html)
 ## Dodawanie użytkowników, grup
