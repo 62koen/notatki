@@ -88,25 +88,25 @@
       <g class="com.sun.star.drawing.LineShape">
        <g id="id3">
         <rect class="BoundingBox" stroke="none" fill="none" x="3489" y="643" width="3" height="4012"/>
-        <path fill="none" stroke="rgb(255,255,255)" d="M 3490,4653 L 3490,644 "/>
+        <path fill="none" stroke="rgb(0,0,0)" d="M 3490,4653 L 3490,644 "/>
        </g>
       </g>
       <g class="com.sun.star.drawing.LineShape">
        <g id="id4">
         <rect class="BoundingBox" stroke="none" fill="none" x="3489" y="648" width="4628" height="3"/>
-        <path fill="none" stroke="rgb(255,255,255)" d="M 3490,649 L 8115,649 "/>
+        <path fill="none" stroke="rgb(0,0,0)" d="M 3490,649 L 8115,649 "/>
        </g>
       </g>
       <g class="com.sun.star.drawing.LineShape">
        <g id="id5">
         <rect class="BoundingBox" stroke="none" fill="none" x="8103" y="644" width="3" height="4012"/>
-        <path fill="none" stroke="rgb(255,255,255)" d="M 8104,4654 L 8104,645 "/>
+        <path fill="none" stroke="rgb(0,0,0)" d="M 8104,4654 L 8104,645 "/>
        </g>
       </g>
       <g class="com.sun.star.drawing.LineShape">
        <g id="id6">
         <rect class="BoundingBox" stroke="none" fill="none" x="3490" y="4638" width="4628" height="3"/>
-        <path fill="none" stroke="rgb(255,255,255)" d="M 3491,4639 L 8116,4639 "/>
+        <path fill="none" stroke="rgb(0,0,0)" d="M 3491,4639 L 8116,4639 "/>
        </g>
       </g>
       <g class="TextShape">
