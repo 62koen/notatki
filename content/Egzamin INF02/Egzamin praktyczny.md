@@ -2,7 +2,7 @@
 ## Statyczny adres IP (Netplan)
 Jeżeli w konfiguracji serwera Ubuntu pojawi się statyczna adresacja, prawdopodobnie najlepiej będzie użyć pliku konfiguracyjnego Netplan. Jeżeli jedna z kart ma otrzymywać adresy automatycznie (przez DHCP), możemy ją po prostu pominąć - domyślnie tak działa każdy system. Tutaj skupimy się na statycznej adresacji.
 
-Zanim jednak zaczniemy go tworzyć, należy zobaczyć, jaką nazwę mają zainstalowane karty sieciowe. Służy do tego proste polecenie `ip a`.
+Zanim jednak zaczniemy tworzyć plik, należy zobaczyć, jaką nazwę mają zainstalowane karty sieciowe. Służy do tego proste polecenie `ip a`.
 ```sh
 ip a
 1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
