@@ -24,5 +24,5 @@ ip a
        valid_lft forever preferred_lft forever
 ```
 Interesują nas liczby 2 i 3 oraz ciąg znaków po nich. Karta z mniejszą liczbą (2) to ta wbudowana, natomiast większa (3) to dodatkowa, położona niżej w obudowie. Jeżeli mamy do skonfigurowania tylko jedną kartę sieciową, wystarczy nam dwójka, czyli `enp0s25`, natomiast gdy potrzeba dodatkowej, trzeba ustawić także trójkę, czyli `enp0s28`.
-
-Posłużymy się edytorem Nano, wbudowanym w Linuxa, którym będziemy edytować plik ``
+![](https://raw.githubusercontent.com/62koen/notatki/52f8eb73800d74906ecc77293c33d4666b773471/attachments/Egzamin/Karty%20sieciowe.svg)
+Posłużymy się edytorem Nano, wbudowanym w Linuxa, którym będziemy edytować plik ``/etc/netplan/99_config.yaml``.
