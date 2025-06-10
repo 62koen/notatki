@@ -106,17 +106,21 @@ Poprawność adresów można sprawdzić ponownie poleceniem `ip a`, które teraz
 
 Pan Wegner (zdecydowany autorytet w komputery) zaleca restart po zastosowaniu Netplana, więc wpisujemy: `sudo reboot`. Konfiguracja zakończona.
 Jeśli umiecie w angielski, tutaj jest oficjalna, szczegółowa dokumentacja: [Ubuntu Server - Configuring networks](https://documentation.ubuntu.com/server/explanation/networking/configuring-networks/index.html)
-### Ogólne polecenia
-Każde polecenie po dodaniu `--help` ukaże nam opcje, jakie możemy w nim zastosować i jego zasadę działania (oczywiście po angielsku).
-Gdy jakieś polecenie wywala błąd wspominając o **"permissions", "super-user", "root"**, należy dołożyć przed poleceniem klasyczne **`sudo`**.
-Gdy długość helpa jest większa, niż zmieści ekran, możemy zastosować `| less` po dowolnej komendzie, np. `ls --help | less`.
-Gdy chcemy opuścić polecenie, robimy to **Ctrl+Z** lub **Ctrl+C**
-- **`sudo adduser`** - dodaje użytkowników
-- **`sudo addgroup`** - dodaje grupę
-- **`sudo deluser`** - usuwa użytkowników
-- **`ls`** - wyświetla zawartość katalogu w którym jesteśmy
+### Polecenia
+#### Rady
+- **Każde polecenie po dodaniu `--help` ukaże nam opcje, jakie możemy w nim zastosować i jego zasadę działania (oczywiście po angielsku).**
+- Gdy jakieś polecenie wywala błąd wspominając o **"permissions", "super-user", "root"**, należy dołożyć przed poleceniem klasyczne **`sudo`**.
+- Gdy długość helpa jest większa, niż zmieści ekran, możemy zastosować `| less` po dowolnej komendzie, np. `ls --help | less`.
+- Gdy chcemy opuścić polecenie, robimy to **Ctrl+Z** lub **Ctrl+C**
+- Dla łatwiejszego zapamiętania w pochylonych nawiasach znajduje się wyjaśnienie czego skrótem jest dane polecenie
+#### Konkrety
+- **`sudo adduser (opcje) (użytkownik)`** - dodaje użytkowników
+- **`sudo addgroup (opcje) (grupa)`** - dodaje grupę
+- **`sudo deluser (użytkownik)`** - usuwa użytkowników  *(DELete USER)*
+- **`cd (katalog)`** - zmienia katalog w którym będziemy *(Change Directory)*
+- **`ls`**/ **`ls (katalog)`** - wyświetla zawartość katalogu w którym jesteśmy/który wyznaczyliśmy *(LiSt)*
 	- **`ls -l`** - wyświetla dodatkowo uprawnienia i właścicieli plików/folderów
-- **`sudo lshw`** - wyświetla informacje o naszym sprzęcie (bardzo przydaje się dodanie `| less` i stosowanie grup sprzętu jakie się pojawiają, czyli `sudo lshw -c cpu` wyświetli nam info o procku)
+- **`sudo lshw`** - wyświetla informacje o naszym sprzęcie (bardzo przydaje się dodanie `| less` i stosowanie grup sprzętu jakie się pojawiają, czyli `sudo lshw -c cpu` wyświetli nam info o procku) *(LiSt HardWare)*
 - **`(polecenie) > plik.txt`** - eksportuje wynik polecenia do pliku (np. `ls -l > uprawnienia.txt`)
 # Zadania na ostatnich egzaminach
 ## [2025 - Styczeń - Arkusz 4](https://egzamin-informatyk.pl/arkusz-praktyczny-inf02-2025-01-04/)
