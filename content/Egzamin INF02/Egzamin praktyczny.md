@@ -98,7 +98,7 @@ Możemy iść dalej. Natomiast jeśli pod spodem zobaczymy coś takiego:
 ```sh
 /etc/netplan/99_config.yaml:2:10: Invalid YAML: mapping values are not allowed in this context:
 	version: 2
-		   ^
+		^
 ```
 mamy coś źle w okolicach, o których wspomina błąd (tutaj okolice `version`, a konkretnie średnik (;) po `network` zamiast dwukropka; w innym przypadku może to być nieodpowiednia spacja itp.)
 
