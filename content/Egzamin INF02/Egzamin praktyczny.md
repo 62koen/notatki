@@ -80,7 +80,7 @@ network:
         - to: default
           via: 90.90.10.1
 ```
-**Uwaga: każde wcięcie z myślnikiem to jeden Tab (dwie spacje), natomiast bez myślnika - dwa Taby (cztery spacje). Brak jednego wcięcia powoduje błąd i trzeba tego pilnować.**
+**Uwaga: każde małe wcięcie to jeden Tab (dwie spacje), a większe wcięcie - dwa Taby (cztery spacje). Brak jednego wcięcia powoduje błąd i trzeba tego pilnować.**
 
 Celowo usunąłem sekcję `nameservers`, czyli adresy DNS, w dodatkowej karcie, ponieważ zazwyczaj służy ona do połączenia się z drukarką (choć czasem zdarzy się, że jest wykorzystywana ze switchem).
 
@@ -98,7 +98,7 @@ Możemy iść dalej. Natomiast jeśli pod spodem zobaczymy coś takiego:
 ```sh
 /etc/netplan/99_config.yaml:2:10: Invalid YAML: mapping values are not allowed in this context:
 	version: 2
-		^
+	   ^
 ```
 mamy coś źle w okolicach, o których wspomina błąd (tutaj okolice `version`, a konkretnie średnik (;) po `network` zamiast dwukropka; w innym przypadku może to być nieodpowiednia spacja itp.)
 
