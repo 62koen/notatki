@@ -83,6 +83,7 @@ network:
 **Uwaga: każde wcięcie z myślnikiem to jeden Tab (dwie spacje), natomiast bez myślnika - dwa Taby (cztery spacje). Brak jednego wcięcia powoduje błąd i trzeba tego pilnować.**
 
 Celowo usunąłem sekcję `nameservers`, czyli adresy DNS, w dodatkowej karcie, ponieważ zazwyczaj służy ona do połączenia się z drukarką (choć czasem zdarzy się, że jest wykorzystywana ze switchem).
+
 Plik w Nano zapisujemy kombinacją **Ctrl+O**, a wychodzimy z programu za pomocą **Ctrl+X**.
 
 Aby wprowadzić w życie naszą ciężką pracę mamy polecenie:
@@ -94,7 +95,7 @@ Jeżeli wyskakuje nam **tylko** żółte ostrzeżenie o niewłaściwych uprawnie
 ** (process:2494): WARNING **: 05:24:25.296: Permissions for /etc/netplan/99_config.yaml are too open. Netplan configuration should NOT be accessible by others.
 ```
 Możemy iść dalej. Natomiast jeśli pod spodem zobaczymy coś takiego:
-```
+```sh
 /etc/netplan/99_config.yaml:2:10: Invalid YAML: mapping values are not allowed in this context:
 	version: 2
 		   ^
