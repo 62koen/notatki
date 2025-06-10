@@ -47,7 +47,7 @@ network:
           via: (brama karty 2)
       nameservers:
           search: [mydomain, otherdomain]
-          addresses: [(pierwszy dns karty 2, (drugi dns karty 2)]
+          addresses: [(pierwszy dns karty 2), (drugi dns karty 2)]
     (nazwa karty 3):
       addresses:
         - (ip karty 3)/(maska karty 3)
@@ -56,7 +56,7 @@ network:
           via: (brama karty 3)
       nameservers:
           search: [mydomain, otherdomain]
-          addresses: [(pierwszy dns karty 3, (drugi dns karty 3)]
+          addresses: [(pierwszy dns karty 3), (drugi dns karty 3)]
 ```
 Przykładowo wygląda to tak:
 ```yaml
@@ -98,7 +98,6 @@ Możemy iść dalej. Natomiast jeśli pod spodem zobaczymy coś takiego:
 ```sh
 /etc/netplan/99_config.yaml:2:10: Invalid YAML: mapping values are not allowed in this context:
 	version: 2
-	   ^
 ```
 mamy coś źle w okolicach, o których wspomina błąd (tutaj okolice `version`, a konkretnie średnik (;) po `network` zamiast dwukropka; w innym przypadku może to być nieodpowiednia spacja itp.)
 
