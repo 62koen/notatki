@@ -40,22 +40,18 @@ network:
   renderer: networkd
   ethernets:
     (nazwa karty 2):
-      addresses:
-        - (ip karty 2)/(maska karty 2)
+      addresses: [(ip karty 2)/(maska karty 2)]
       routes:
         - to: default
           via: (brama karty 2)
       nameservers:
-          search: [mydomain, otherdomain]
           addresses: [(pierwszy dns karty 2), (drugi dns karty 2)]
     (nazwa karty 3):
-      addresses:
-        - (ip karty 3)/(maska karty 3)
+      addresses: [(ip karty 3)/(maska karty 3)]
       routes:
         - to: default
           via: (brama karty 3)
       nameservers:
-          search: [mydomain, otherdomain]
           addresses: [(pierwszy dns karty 3), (drugi dns karty 3)]
 ```
 Przykładowo wygląda to tak:
@@ -65,17 +61,14 @@ network:
   renderer: networkd
   ethernets:
     enp0s25:
-      addresses:
-        - 192.168.0.1/24
+      addresses: [192.168.0.1/24]
       routes:
         - to: default
           via: 192.168.0.2
       nameservers:
-          search: [mydomain, otherdomain]
           addresses: [8.8.8.8, 8.8.4.4]
     enp0s28:
-      addresses:
-        - 90.90.10.10/16
+      addresses: [90.90.10.10/16]
       routes:
         - to: default
           via: 90.90.10.1
@@ -121,6 +114,18 @@ Jeśli umiecie w angielski, tutaj jest oficjalna, szczegółowa dokumentacja: [U
 	- **`ls -l`** - wyświetla dodatkowo uprawnienia i właścicieli plików/folderów
 - **`sudo lshw`** - wyświetla informacje o naszym sprzęcie (bardzo przydaje się dodanie `| less` i stosowanie grup sprzętu jakie się pojawiają, czyli `sudo lshw -c cpu` wyświetli nam info o procku) *(LiSt HardWare)*
 - **`(polecenie) > plik.txt`** - eksportuje wynik polecenia do pliku (np. `ls -l > uprawnienia.txt`)
+## Windows
+### Przydatne programy
+- **gpedit.msc** - edytor lokalnych zasad grupy
+	- **Wymóg Ctrl+Alt+Del i komunikat po zalogowaniu**: Konfiguracja komputera -> Ustawienia Windows -> Ustawienia zabezpieczeń -> Zasady lokalne -> Opcje zabezpieczeń -> "Logowanie interakcyjne:"
+- **Zarządzanie komputerem** - wgląd w użytkowników, grupy
+- **Wyświetl zaawansowane ustawienia systemu** - zmiana nazwy komputera, podłączenie pod domenę
+### Przydział dysku
+- **Lokalizacja:** Właściwości dysku C: -> Zakładka Przydział -> Pokaż ustawienia przydziałów
+	- Włącz zarządzenie przydziałami
+	- Jeśli zadanie wymaga czegoś jeszcze, można to znaleźć w tym miejscu
+	- Przycisk Wpisy przydziałów pozwala na dodania przydziału dla użytkownika. Kiedy proszą nas np. o przydzielenie 20% jakiemuś użytkownikowi, prawdopodobnie trzeba obliczyć te 20% pojemności dysku i podać wielkość w GB.
+
 # Zadania na ostatnich egzaminach
 ## [2025 - Styczeń - Arkusz 4](https://egzamin-informatyk.pl/arkusz-praktyczny-inf02-2025-01-04/)
 ### Zad. 2
