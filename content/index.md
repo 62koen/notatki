@@ -6,9 +6,9 @@ title: Witaj
 
 ## Lista przedmiotów do wyboru:
 - **[[Witryny i aplikacje internetowe/index|Witryny i aplikacje internetowe]]**
-- **[[Historia/index|Historia]]**
+%% - **[[Historia/index|Historia]]** %%
 - **[[Polski/index|Polski]]**
 - **[[Bazy danych (Dudziak)/index|Bazy danych (Dudziak)]]**
 - **[[Programowanie (Dudziak)/index|Programowanie (Dudziak)]]**
-- **[[Niemiecki (Pilachowski)/index|Niemiecki (Pilachowski)]]**
-- **[[Chemia/index|Chemia]]**
+%% - **[[Niemiecki (Pilachowski)/index|Niemiecki (Pilachowski)]]** %%
+%% - **[[Chemia/index|Chemia]]** %%
