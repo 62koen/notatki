@@ -4,9 +4,9 @@ Autor: Mencol (szkic), Marcel (poprawki)
 ## *„Pokolenie”*
 Utwór składa się z dwóch części:
 1. **Liryka pośrednia – opis natury**
-Szczęśliwy świat natury (motyw arkadyjski) jest skontrastowany z upiornym wymiarem wojny (motyw katastroficzny). Natura jest skażona śmiercią, a spokój i poczucie bezpieczeństwa przestały istnieć.
+- Szczęśliwy świat natury (motyw arkadyjski) jest skontrastowany z upiornym wymiarem wojny (motyw katastroficzny). Natura jest skażona śmiercią, a spokój i poczucie bezpieczeństwa przestały istnieć.
 2. **Liryka bezpośrednia – głos jednostki mówiącej w imieniu całego pokolenia.**
-Opisuje drastyczny wpływ wojny i jej naturalistyczny obraz (obcięte głowy, wydrapane oczy). Straty wojny mają wymiar materialny i duchowy, pokazują że pozycja człowieka została zniszczona we wszystkich jej aspektach.
+- Opisuje drastyczny wpływ wojny i jej naturalistyczny obraz (obcięte głowy, wydrapane oczy). Straty wojny mają wymiar materialny i duchowy, pokazują że pozycja człowieka została zniszczona we wszystkich jej aspektach.
 
 > **Pokolenie Kolumbów -** pokolenie pisarzy urodzonych około 1920 roku, których młodość przypadła na czas II wojny światowej. Zamiast normalnego życia musieli walczyć i często ginęli, dlatego nazywa się ich również straconym pokoleniem.
 ## *„Z głową na karabinie”*
