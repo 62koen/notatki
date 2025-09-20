@@ -8,8 +8,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Notatki 3TiA",
-    pageTitleSuffix: " | Notatki 3TiA",
+    pageTitle: "Notatki 4TiA",
+    pageTitleSuffix: " | Notatki 4TiA",
     enableSPA: true,
     enablePopovers: false,
     analytics: null,
@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     baseUrl: "62koen.github.io/notatki",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
-    generateSocialImages: false,
+    // generateSocialImages: false,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: false,

@@ -1,2 +1,0 @@
-## [ZSE Rzeszów](https://zse.rzeszow.pl)
-Ćwiczenia na egzamin praktyczny z Windows i Ubuntu Server oraz sieci komputerowych, czyli PSK (robienie kabli, montaż gniazda Keystone, patchpanela, konfiguracja switcha, rutera itd.).
