@@ -19,7 +19,7 @@ Liryka bezpośrednia – głos żołnierza. Opisuje trzy przedziały czasowe:
 Występuje kontrast: szczęśliwe dzieciństwo ↔ brutalna wojna
 
 > **Poezja tyrtejska -** literatura patriotyczna, której celem jest zagrzewanie do walki i poświęcenia dla ojczyzny. Nazwa pochodzi od Tyrtajosa – greckiego poety, który VI w. p.n.e. mobilizował wojowników pieśniami bojowymi.
-## *"Elegia o.. [chłopcu polskim]"*
+## *"Elegia o... [chłopcu polskim]"*
 > **Elegia -** gatunek literacki, najczęściej utrzymany w tonie smutnym, żałobnym i refleksyjnym, poświęcony tematom śmierci, przemijania i cierpienia.
 
 Podmiotem lirycznym utworu jest rodzic, który zwraca się do swojego dziecka – synka, opisując ogrom cierpień, jakie go czekają (obraz niewinnego dziecka ze śmiercionośną bronią w ręku). Mówi on, że marzenia dziecka są przerwane przez wojnę, życie zmusza go do stawienia czoła wszechobecnej śmierci, a patriotyzm i oddanie ojczyźnie stanowią wartość nadrzędną, choć często towarzyszy im strach.
