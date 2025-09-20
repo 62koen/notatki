@@ -1,6 +1,4 @@
----
-Autor: Mencol (szkic), Marcel (poprawki)
----
+*Autorzy: Mencol (szkic), Marcel (poprawki)*
 ## *„Pokolenie”*
 Utwór składa się z dwóch części:
 1. **Liryka pośrednia – opis natury**
