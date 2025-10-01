@@ -95,16 +95,11 @@ To jest druga linia
 ```html
 <table border="1">
     <tr>
-        <th colspan="3">Nagłówek scalony na 3 kolumny</th>
+        <td colspan="2">komórka 1 i 2</td>
     </tr>
     <tr>
-        <td>Komórka 1</td>
-        <td>Komórka 2</td>
-        <td>Komórka 3</td>
-    </tr>
-    <tr>
-        <td colspan="2">Scalona komórka (2 kolumny)</td>
-        <td>Komórka 3</td>
+        <td>komórka 3</td>
+        <td>komórka 4</td>
     </tr>
 </table>
 ```
@@ -118,22 +113,11 @@ To jest druga linia
 ```html
 <table border="1">
     <tr>
-        <th rowspan="2">Scalony nagłówek (2 wiersze)</th>
-        <th>Kolumna 2</th>
-        <th>Kolumna 3</th>
+        <td rowspan="2">komórka 1 i 3</td>
+        <td>komórka 2</td>
     </tr>
     <tr>
-        <td>Dane 1</td>
-        <td>Dane 2</td>
-    </tr>
-    <tr>
-        <td rowspan="2">Scalona komórka</td>
-        <td>Dane 3</td>
-        <td>Dane 4</td>
-    </tr>
-    <tr>
-        <td>Dane 5</td>
-        <td>Dane 6</td>
+        <td>komórka 4</td>
     </tr>
 </table>
 ```
