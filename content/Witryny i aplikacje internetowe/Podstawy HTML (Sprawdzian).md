@@ -129,33 +129,37 @@ To jest druga linia
 ## 6. Pole tekstowe formularza z etykietą
 
 ```html
-<!-- Sposób 1: label z atrybutem for -->
+<!-- Skrócony przykład -->
 <label for="imie">Imię:</label>
 <input type="text" id="imie" name="imie">
 
-<!-- Sposób 2: label opakowujący input -->
-<label>
-    Nazwisko:
-    <input type="text" name="nazwisko">
-</label>
-
 <!-- Pełny przykład z dodatkowymi atrybutami -->
 <label for="email">Email:</label>
-<input type="text" 
+<input type="email" 
        id="email" 
        name="email" 
        placeholder="Wprowadź email" 
        required 
        maxlength="50">
+<!-- input, tak jak img, nie ma znacznika zamykającego -->
 ```
 
 **Ważne atrybuty:**
 - `type="text"` - typ pola tekstowego
-- `id` - identyfikator (połączony z label przez for)
+- `type="email"` - email
+- `type="password"` - hasło
+- `type="number"` - liczby
+- `type="tel"` - telefon
+- `type="url"` - strona internetowa
+- `type="search"` - wyszukiwanie
+- `type="date"` - data
+- `type="time"` - czas
+- `id` - identyfikator (połączony z **label** przez for)
 - `name` - nazwa pola (wysyłana z formularzem)
 - `placeholder` - tekst podpowiedzi
 - `required` - pole wymagane
 - `maxlength` - maksymalna liczba znaków
+- `minlength` - minimalna liczba znaków
 
 [[#Dodatkowe typy pól input]]
 
