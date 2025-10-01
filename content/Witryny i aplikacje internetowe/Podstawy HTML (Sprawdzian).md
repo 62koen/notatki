@@ -1,6 +1,6 @@
-*Model LLM: Claude Sonnet 4.5*
-*Prompt, poprawki: Koen[^1]*
-*Dzięki za notatki Hubertowi Pawłowskiemu i Łukaszowi za inspirację*
+- *Model LLM: Claude Sonnet 4.5*
+- *Prompt, poprawki: Koen[^1]*
+- *Dzięki za notatki Hubertowi Pawłowskiemu i Łukaszowi za inspirację*
 
 ## 1. Znacznik obrazu (img) ze wszystkimi atrybutami
 
