@@ -246,18 +246,6 @@ Domyślna treść textarea
     <option value="czytanie">Czytanie</option>
     <option value="podroze">Podróże</option>
 </select>
-
-<!-- Select z grupami opcji -->
-<select name="miasto">
-    <optgroup label="Polska">
-        <option value="warszawa">Warszawa</option>
-        <option value="krakow">Kraków</option>
-    </optgroup>
-    <optgroup label="Niemcy">
-        <option value="berlin">Berlin</option>
-        <option value="monachium">Monachium</option>
-    </optgroup>
-</select>
 ```
 
 **Atrybuty select:**
@@ -272,33 +260,6 @@ Domyślna treść textarea
 - `value` - wartość wysyłana z formularzem
 - `selected` - opcja wybrana domyślnie
 - `disabled` - opcja wyłączona
-
----
-
-## Kompletny przykład formularza
-
-```html
-<form action="wyslij.php" method="post">
-    <label for="imie">Imię:</label>
-    <input type="text" id="imie" name="imie" required><br><br>
-    
-    <label for="email">Email:</label>
-    <input type="text" id="email" name="email" required><br><br>
-    
-    <label for="wiadomosc">Wiadomość:</label><br>
-    <textarea id="wiadomosc" name="wiadomosc" rows="5" cols="40"></textarea><br><br>
-    
-    <label for="kraj">Kraj:</label>
-    <select id="kraj" name="kraj">
-        <option value="pl">Polska</option>
-        <option value="de">Niemcy</option>
-    </select><br><br>
-    
-    <input type="submit" value="Wyślij">
-    <input type="reset" value="Wyczyść">
-    <input type="button" value="Anuluj" onclick="alert('Anulowano!')">
-</form>
-```
 
 ---
 
@@ -385,9 +346,6 @@ Domyślna treść textarea
        disabled              <!-- wyłączone -->
        maxlength="50"        <!-- max długość tekstu -->
        minlength="5"         <!-- min długość tekstu -->
-       pattern="[A-Za-z]+"   <!-- wzorzec regex -->
-       autofocus             <!-- auto focus po załadowaniu -->
-       autocomplete="off">   <!-- wyłącz autouzupełnianie -->
 ```
 
 ---
