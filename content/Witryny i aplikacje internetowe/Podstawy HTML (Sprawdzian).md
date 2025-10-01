@@ -1,5 +1,6 @@
+## [Zagadnienia](https://www.kodowanieinfo.pl/wp-content/uploads/2025/09/spr1-witryny-1.pdf)
 - *Model LLM: Claude Sonnet 4.5*
-- *Prompt, poprawki: Koen[^1]*
+- *Prompty, poprawki: Koen[^1]*
 - *Dzięki za notatki Hubertowi Pawłowskiemu i Łukaszowi za inspirację*
 
 ## 1. Znacznik obrazu (img) ze wszystkimi atrybutami
