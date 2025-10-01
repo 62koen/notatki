@@ -345,7 +345,7 @@ Domyślna treść textarea
        readonly              <!-- tylko do odczytu -->
        disabled              <!-- wyłączone -->
        maxlength="50"        <!-- max długość tekstu -->
-       minlength="5"         <!-- min długość tekstu -->
+       minlength="5">        <!-- min długość tekstu -->
 ```
 
 ---
