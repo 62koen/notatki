@@ -5,8 +5,8 @@ ALTER TABLE zamowienia ADD FOREIGN KEY (klientId) REFERENCES klienci (klientId);
 ```
 - Widok designer / widok projektu
 
-![](designer.png)
-## [Zadania z PDF], Baza wynajem
+![](https://raw.githubusercontent.com/62koen/notatki/refs/heads/v4/attachments/SQL/zdj/designer.png)
+## [Zadania z PDF](https://github.com/62koen/notatki/blob/v4/attachments/SQL/zadanie-wynajem-8kwerend.pdf), Baza wynajem
 1. tworząca tabelę pokoje z następującymi polami:
 	‒ id, liczba całkowita dodatnia
 	‒ nazwa, tekst do 20 znaków
