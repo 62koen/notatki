@@ -1,4 +1,4 @@
-[*Baza firma z tą tabelą*]()
+[*Baza firma z tą tabelą*](https://github.com/62koen/notatki/blob/v4/attachments/SQL/Bazy/firma.sql)
 ### 1. Kwerenda wyszukująca wszystkie wiersze dla których placa jest większa od średniej placy. Należy użyć podzapytania.
 ```sql
 SELECT * FROM pracownicy WHERE placa > (SELECT AVG(placa) FROM pracownicy); 

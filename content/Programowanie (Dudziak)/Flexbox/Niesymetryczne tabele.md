@@ -48,7 +48,7 @@ body {
 }
 ```
 #### Wynik
-![](flexbox-colspan.png)
+![](https://raw.githubusercontent.com/62koen/notatki/refs/heads/v4/attachments/Programowanie%20webowe/Flexbox/flexbox-colspan.png)
 ## A'la rowspan
 *index.html*
 ```html
@@ -100,4 +100,4 @@ body {
 }
 ```
 #### Wynik
-![](flexbox-rowspan.png)
+![](https://raw.githubusercontent.com/62koen/notatki/refs/heads/v4/attachments/Programowanie%20webowe/Flexbox/flexbox-rowspan.png)

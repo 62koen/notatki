@@ -1,4 +1,3 @@
-[PDF]()
 ### Zapytanie 1: wybierające jedynie nazwisko, imię, klasę i datę wypożyczenia dla uczniów dla których data wypożyczenia jest późniejsza niż 2020-03-02
 ```sql
 SELECT nazwisko, imie, klasa, data_wypozyczenia FROM uczniowie WHERE data_wypozyczenia>"2020-03-02";

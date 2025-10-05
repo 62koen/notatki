@@ -1,4 +1,4 @@
-[PDF]()
+[PDF](https://github.com/62koen/notatki/blob/v4/attachments/Programowanie%20webowe/zad-struktura-flexbox.pdf)
 
 *index.html*
 ```html
@@ -67,4 +67,4 @@ header {
 }
 ```
 ## Wygląd końcowy
-![](flex-bloki.png)
+![](https://raw.githubusercontent.com/62koen/notatki/refs/heads/v4/attachments/Programowanie%20webowe/Flexbox/flex-bloki.png)
