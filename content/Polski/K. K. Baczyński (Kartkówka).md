@@ -1,4 +1,4 @@
-*Autorzy: Mencol (szkic), Marcel (poprawki)*
+*Autorzy: Mencol (notatka), Koen[^1] (poprawki)*
 ## *„Pokolenie”*
 Utwór składa się z dwóch części:
 1. **Liryka pośrednia – opis natury**
@@ -25,3 +25,5 @@ Podmiotem lirycznym utworu jest rodzic, który zwraca się do swojego dziecka �
 - Nawiązanie do *"Trenów"* Kochanowskiego - idealizacja dzieciństwa
 
 W utworze obecny jest również motyw matki – *Stabat Mater Dolorosa* ("stała matka boleściwa"), nawiązującej do Maryi i jej cierpienia pod krzyżem.
+
+[^1]: Marcel
