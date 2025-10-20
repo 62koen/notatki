@@ -1,5 +1,5 @@
 - *Autor: Mencol (notatka), Koen[^1] (poprawki)*
-- Dzięki Hetman za notatki
+- *Dzięki Hetman za notatki*
 # Zagadnienia podane na lekcji
 
 ## 1. Geneza utworu
@@ -24,15 +24,15 @@ Podczas rozmów z Edelmanem – jednym z przywódców powstania w getcie warszaw
 
 - **Utworzone przez Niemców w listopadzie 1940 roku** – mur oddzielił Żydów od reszty miasta; ostatecznym celem getta było unicestwienie Żydów
 
-- **W szczytowym momencie zamknięto tam ok. 450 tysięcy Żydów** – w jednym pokoju żyło po kilkanaście osób; panował tłok, brud, przykre zapachy; ciała zmarłych leżały na ulicach, bo nikt nie miał siły ich grzebać
+- **W szczytowym momencie zamknięto tam ok. 450 tysięcy Żydów** – w jednym pokoju żyło po kilkanaście osób; panował tłok, brud, przykre zapachy
 
-- **Panował głód, tyfus, przeludnienie, brak kanalizacji, gazu i elektryczności** – Edelman opisuje szpital, w którym brakowało leków i żywności; ludzie umierali codziennie na ulicach
+- **Panował głód, tyfus, przeludnienie, brak kanalizacji, gazu i elektryczności** – Edelman opisuje szpital, w którym brakowało leków i żywności
 
 - **Dzienna racja żywności wynosiła ok. 400 kcal** – ludzie byli skrajnie wychudzeni, ważyli po 30–40 kg, a chleb był cenniejszy niż pieniądze
 
-- **Ludzie umierali z wycieńczenia na ulicach** – zwłoki przykrywano gazetami, dzieci żebrały lub umierały z głodu przy murach
+- **Ludzie regularnie umierali na ulicach** – widok zwłok był codziennością, nikt nie grzebał zmarłych
 
-- **Mieszkańcy żyli w ciągłym strachu przed wywózką do Treblinki** – Edelman wspomina „selekcje", podczas których wybierano ludzi do transportu; każdy wiedział, że to wyrok śmierci
+- **Mieszkańcy żyli w ciągłym strachu przed wywózką do Treblinki** – Edelman wspomina „selekcje", podczas których wybierano ludzi do transportu; twierdzili, że jedynie "przenoszą ludność na wschód"
 
 ## 4. Bohaterowie
 
@@ -40,24 +40,24 @@ Podczas rozmów z Edelmanem – jednym z przywódców powstania w getcie warszaw
 Przewodniczący Judenratu (Rady Żydowskiej); popełnił samobójstwo, gdy nie mógł zapobiec deportacjom.
 
 ### Mordechaj Anielewicz
-Przywódca Żydowskiej Organizacji Bojowej (ŻOB); zginął śmiercią samobójczą w bunkrze na ul. Miłej 18.
+Przywódca Żydowskiej Organizacji Bojowej (ŻOB), **pierwszy dowódca Powstania**; zginął w zbiorowym samobójstwie w bunkrze na ul. Miłej 18.
 
 ### Marek Edelman
-Jeden z dowódców ŻOB; ocalał z powstania, po wojnie został lekarzem kardiologiem, całe życie ratował ludzkie życie.
+Jeden z dowódców ŻOB, **drugi dowódca Powstania, aż do jego zakończenia**; ocalał z niego, po wojnie został lekarzem kardiologiem, całe życie ratował ludzkie życie.
 
 ## 5. Życie w getcie (z przykładami z książki)
 
-- **Chleb był symbolem życia i dobrem luksusowym** – ludzie za kawałek chleba byli gotowi zrobić wszystko; był ważniejszy niż godność
+- W getcie sprawą życia i śmierci było zdecydowanie **pożywienie**: 
+	- **Chleb był symbolem życia i dobrem luksusowym.**  Za porcję chleba mieszkańcy byli w stanie sami zgłosić się na wywózkę, mimo pogłosek, że oznacza ona śmierć: *"przecież nie zmarnują tyle chleba"*
+	- **Dzieci okradały przechodniów**, aby zdobyć choć trochę jedzenia dla siebie i swoich rodzin; nosiły obszerne kurtki, aby zmieścić jak najwięcej
+	- Zdarzał się **kanibalizm**: Rywka Urman w akcie skrajnej desperacji odgryzła kawałek ucha swojego zmarłego dziecka
+	- **Ludzie byli skrajnie niedożywieni**, prowadzono nawet badania nad głodem w tak przykrych okolicznościach
+	- **Mieszkańcy mogli sprzedać wszystko, by zdobyć jedzenie**: oddawali ubrania, meble, biżuterię i pamiątki rodzinne, by przeżyć kolejny dzień
+	- Jedzenie z kuchni ludowych było symboliczne i wiele osób **szmuglowało** żywność z **aryjskiej strony**[^2]
 
-- **Dzieci wyrywały paczki przechodniom z nadzieją na jedzenie** – głodne dzieci napadały na ludzi, by zdobyć cokolwiek do zjedzenia
-
-- **Rywka Urman** – w akcie desperacji odgryzła kawałek ciała swojego zmarłego dziecka, jest to przykład największego cierpienia i rozpaczy
-
-- **Ludzie ważyli po 30–40 kg** – wyniszczeni głodem i chorobami, wyglądali jak szkielety; śmierć była codziennością
-
-- **Żydzi sprzedawali wszystko, by zdobyć jedzenie** – oddawali ubrania, meble, biżuterię i pamiątki rodzinne, by przeżyć kolejny dzień
-
-- **Istniały kuchnie ludowe i szmugiel żywności zza murów** – jedzenie z kuchni było symboliczne; szmugiel był ryzykowny, ale ratował życie wielu ludzi
+- **Ludzie umierali w cierpieniu**: z głodu, wycieńczenia
+- Ze względu na powstanie getta i podział społeczeństwa podczas wojny Edelman **"zapragnął nie mieć twarzy"**, ponieważ jako Żyd czekała go najpewniej nieestetyczna śmierć w cierpieniach w porównaniu z "luksusem" śmierci osób po drugiej stronie, w walce. Niemcy stworzyli obraz Żydów jako "gorszej rasy", na którą nie ma miejsca.
+- **Miłość stanowiła ogromną wartość w tak trudnej rzeczywistości**, ludzie bardzo jej potrzebowali; w getcie powstawały krótkotrwałe, ale intensywne związki
 
 ## 6. Powstanie w getcie warszawskim
 
@@ -66,27 +66,20 @@ Jeden z dowódców ŻOB; ocalał z powstania, po wojnie został lekarzem kardiol
 - **Cel:** pokazanie światu, że Żydzi nie ginęli biernie – walczyli o godność i życie
 - **Dowódca ŻOB:** Mordechaj Anielewicz
 - **Dowódca Niemców:** Jürgen Stroop
-- **Symbol oporu:** walka mimo białych flag – pokazanie odwagi i niezłomności w obliczu śmierci
 
 Edelman podkreśla, że powstanie nie miało szans na zwycięstwo, ale jego celem było **„umierać z godnością, a nie w milczeniu"**.
 
 ## 7. Czas i miejsce akcji
 
 ### Czas przeszły
-**Getto warszawskie, 1943 r.** – Marek Edelman jako goniec w szpitalu.
+**Getto warszawskie, 1943 r.** – Marek Edelman jako goniec szpitalny na Umschlagplatzu.
 
 ### Czas teraźniejszy
 **Lata 70. XX wieku, Łódź** – Edelman jako lekarz kardiolog, rozmawia z Hanną Krall.
 
 ## 8. Dlaczego Marek Edelman został lekarzem?
 
-Po wojnie Edelman nie potrafił odnaleźć się w nowej rzeczywistości i chciał nadal walczyć o życie ludzkie – tak jak w getcie.
-
-Decyzję o studiach medycznych podjęła za niego przyjaciółka Anna, ale z czasem zrozumiał, że to jego powołanie.
-
-Jako kardiolog kontynuował swoją dawną misję – ratował ludzi przed śmiercią, **„grając z Bogiem o życie pacjentów"**.
-
-Dla niego praca lekarza była sposobem, by nadal **„zdążać przed Panem Bogiem"**, przedłużać czas zanim Bóg "zgasi świeczkę życia", czyli uratować człowieka, zanim śmierć go dosięgnie.
+Po wojnie Edelman nie potrafił odnaleźć się w nowej rzeczywistości i popadł w apatię, przesypiając całe dnie. Decyzję o studiach medycznych podjęła za niego przyjaciółka Anna, ale z czasem zrozumiał, że to jego powołanie. Zdał sobie sprawę, że jako kardiolog kontynuował swoją dawną misję – ratował ludzi przed śmiercią, podobnie jak w getcie, gdzie ratował Żydów przed wywózką na śmierć. Dla niego praca lekarza była sposobem, by nadal **„zdążać przed Panem Bogiem"**, przedłużać czas zanim Bóg "zgasi świeczkę życia", czyli uratować człowieka, zanim śmierć go dosięgnie.
 
 ---
 
@@ -134,3 +127,5 @@ Dla niego praca lekarza była sposobem, by nadal **„zdążać przed Panem Bogi
 **„Zdążyć przed Panem Bogiem"** to nie tylko reportaż historyczny, ale też refleksja nad wartością życia, śmierci i moralności człowieka w ekstremalnych warunkach. Pokazuje, że nawet w sytuacji beznadziejnej można zachować człowieczeństwo i odwagę.
 
 [^1]: Marcel
+
+[^2]: Poza murami getta
