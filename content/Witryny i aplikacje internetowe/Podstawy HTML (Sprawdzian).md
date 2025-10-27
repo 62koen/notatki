@@ -1,4 +1,4 @@
-## [Zagadnienia](https://www.kodowanieinfo.pl/wp-content/uploads/2025/09/spr1-witryny-1.pdf)
+- **[Zagadnienia](https://www.kodowanieinfo.pl/wp-content/uploads/2025/09/spr1-witryny-1.pdf)**
 - *Model LLM: Claude Sonnet 4.5*
 - *Prompty, poprawki: Koen[^1]*
 - *Dzięki za notatki Hubertowi Pawłowskiemu i Łukaszowi za inspirację*

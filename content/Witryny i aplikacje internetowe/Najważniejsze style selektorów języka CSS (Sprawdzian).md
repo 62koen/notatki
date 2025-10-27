@@ -1,3 +1,7 @@
+- **[Zagadnienia](https://www.kodowanieinfo.pl/wp-content/uploads/2025/10/spr2-witryny.pdf)**
+- *Model LLM: Claude Sonnet 4.5*
+- *Prompt: Koen[^1]*
+
 ## 1. Sposoby wprowadzania stylów CSS
 
 ### Styl wewnętrzny - znacznik `<style>` w sekcji `<head>`
@@ -436,3 +440,5 @@ Ustawia przezroczystość całego elementu (wraz z zawartością) - wartości od
 ✓ RGB: `rgb(0-255, 0-255, 0-255)`, RGBA dodaje przezroczystość  
 ✓ HSL: `hsl(0-360, 0-100%, 0-100%)`, HSLA dodaje przezroczystość  
 ✓ `opacity` ustawia przezroczystość całego elementu (0-1)
+
+[^1]: Marcel
