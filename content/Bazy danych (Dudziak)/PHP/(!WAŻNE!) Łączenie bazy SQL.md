@@ -1,4 +1,4 @@
-*[Baza sklep]()*
+*[Baza sklep](https://github.com/62koen/notatki/blob/v4/attachments/SQL/Bazy/sklep.sql)*
 ## Lista punktowana
 ```php
 <?php

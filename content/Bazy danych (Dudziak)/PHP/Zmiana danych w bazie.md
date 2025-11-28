@@ -1,4 +1,4 @@
-*[Baza moje_kino]()*
+*[Baza moje_kino](https://github.com/62koen/notatki/blob/v4/attachments/SQL/Bazy/moje_kino.sql)*
 ```php
 <?php
 $connect=mysqli_connect('localhost','root','','moje_kino');
