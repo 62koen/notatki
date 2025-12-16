@@ -1,3 +1,0 @@
----
-title: Bazy danych (Dudziak)
----

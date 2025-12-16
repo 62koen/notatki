@@ -8,7 +8,6 @@ title: Witaj
 - **[[Witryny i aplikacje internetowe/index|Witryny i aplikacje internetowe]]**
 - **[[Historia/index|Historia]]**
 - **[[Polski/index|Polski]]**
-- **[[Bazy danych (Dudziak)/index|Bazy danych (Dudziak)]]**
-- **[[Programowanie (Dudziak)/index|Programowanie (Dudziak)]]**
+- **[[Praktyczne u Dudziaka/index|Praktyczne u Dudziaka (notatki)]]**
 %% - **[[Niemiecki (Pilachowski)/index|Niemiecki (Pilachowski)]]** %%
 %% - **[[Chemia/index|Chemia]]** %%
