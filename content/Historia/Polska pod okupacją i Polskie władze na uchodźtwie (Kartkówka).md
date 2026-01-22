@@ -5,6 +5,7 @@
 - lubelski
 - krakowski (tam była stolica)
 - radomski
+ 
 Na jego czele stanął gubernator Hans Frank
 ### Polityka Niemiec wobec Polaków
 - **listy proskrypcyjne** - wykazy osób, które miały zostać aresztowane i zamordowane
