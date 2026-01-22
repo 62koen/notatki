@@ -6,7 +6,7 @@
 - krakowski (tam była stolica)
 - radomski
  
-Na jego czele stanął gubernator Hans Frank
+Na jego czele stanął gubernator **Hans Frank**
 ### Polityka Niemiec wobec Polaków
 - **listy proskrypcyjne** - wykazy osób, które miały zostać aresztowane i zamordowane
 - **Gestapo** - tajna policja polityczna
@@ -36,9 +36,9 @@ Na jego czele stanął gubernator Hans Frank
 ### Stosunki polsko-sowieckie
 - Układ Sikorski-Majski podpisano **30 lipca 1941 r. w Londynie**
 - Jego postanowienia brzmiały tak:
-	- przywrócono stosunki dyplomatyczne
+	- przywrócono stosunki dyplomatyczne między krajami
 	- Pakt Ribbentrop-Mołotow stracił swoją moc
-	- zaplanowano utworzenie w ZSRR utworzenie polskiej armii
+	- zaplanowano utworzenie w ZSRR polskiej armii
 	- zwolniono Polaków więzionych w sowieckich łagrach i więzieniach
 - **Zbrodnia Katyńska** doprowadziła do zerwania polsko-sowieckich stosunków dyplomatycznych **25 kwietnia 1943 r.**
 - Z polecenia Stalina utworzono w Polsce **Polską Partię Robotniczą**
