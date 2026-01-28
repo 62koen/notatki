@@ -2,11 +2,8 @@
 
 ### Sposób 1: Wewnątrz pliku HTML
 ```html
-<!DOCTYPE html>
 <html>
-<head>
-    <title>Moja strona</title>
-</head>
+[...]
 <body>
 
     <script>
@@ -19,17 +16,10 @@
 
 ### Sposób 2: Zewnętrzny plik JavaScript
 ```html
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Moja strona</title>
-</head>
 <body>
     
-    <!-- Odwołanie do zewnętrznego pliku -->
     <script src="skrypt.js"></script>
 </body>
-</html>
 ```
 
 Plik **skrypt.js**:
@@ -50,21 +40,12 @@ alert("To jest zwykła wiadomość");
 ```javascript
 let odpowiedz = confirm("Czy na pewno chcesz kontynuować?");
 // zwraca true jeśli OK, false jeśli Anuluj
-
-if (odpowiedz) {
-    alert("Wybrałeś OK");
-} else {
-    alert("Wybrałeś Anuluj");
-}
 ```
 
 ### Prompt - pobiera tekst od użytkownika
 ```javascript
 let imie = prompt("Jak masz na imię?");
-alert("Cześć " + imie + "!");
-
-// Można też ustawić wartość domyślną:
-let wiek = prompt("Ile masz lat?", "18");
+alert("Cześć " + imie);
 ```
 
 ---
@@ -96,15 +77,17 @@ if (temperatura > 30) {
 let ocena = 4;
 
 if (ocena == 6) {
-    console.log("Celujący!");
+    console.log("Celujący");
 } else if (ocena == 5) {
     console.log("Bardzo dobry");
 } else if (ocena == 4) {
     console.log("Dobry");
 } else if (ocena == 3) {
     console.log("Dostateczny");
+} else if (ocena == 2) {
+    console.log("Dopuszczający");
 } else {
-    console.log("Niedostateczny");
+    console.log("Niedopuszczający");
 }
 ```
 
@@ -340,19 +323,16 @@ console.log(zwierzeta);  // ["pies", "kot", "chomik", "papuga"]
 // Zmiana wartości elementu
 zwierzeta[1] = "królik";
 console.log(zwierzeta[1]);  // królik
+
+// Usuwanie elementu na końcu
+zwierzeta.pop;
 ```
 
 ### Wyświetlanie całej tablicy
 ```javascript
 let kolory = ["czerwony", "niebieski", "zielony"];
 
-// Sposób 1 - pętla FOR
-for (let i = 0; i < kolory.length; i++) {
-    console.log("Kolor " + i + ": " + kolory[i]);
-}
-
-// Sposób 2 - bezpośrednio
-console.log(kolory);  // wyświetli całą tablicę
+console.log(kolory);
 ```
 
 ---
