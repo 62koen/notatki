@@ -10,4 +10,4 @@ title: Witaj
 - **[[Polski/index|Polski]]**
 - **[[Praktyczne u Dudziaka/index|Praktyczne u Dudziaka (notatki)]]**
 %% - **[[Niemiecki (Pilachowski)/index|Niemiecki (Pilachowski)]]** %%
-%% - **[[Chemia/index|Chemia]]** %%
+- **[[Chemia/index|Chemia]]**
