@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="rysunek.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.68150253"
+     inkscape:cx="68.965262"
+     inkscape:cy="424.79667"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="68.965262"
+       y="507.70171"
+       width="205.42844"
+       height="220.1019"
+       id="rect23" />
+    <linearGradient
+       id="linearGradient18"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#850019;stop-opacity:1;"
+         offset="0"
+         id="stop18" />
+      <stop
+         style="stop-color:#854500;stop-opacity:0;"
+         offset="1"
+         id="stop19" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="18.247054 : 95.311762 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="246.88235 : 278.55883 : 1"
+       inkscape:persp3d-origin="105 : 99 : 1"
+       id="perspective13" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient18"
+       id="linearGradient19"
+       x1="86.539206"
+       y1="161.89413"
+       x2="189.10785"
+       y2="161.89413"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient18"
+       id="linearGradient20"
+       gradientUnits="userSpaceOnUse"
+       x1="86.539206"
+       y1="161.89413"
+       x2="189.10785"
+       y2="161.89413"
+       gradientTransform="translate(0,67.164706)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient18"
+       id="linearGradient21"
+       gradientUnits="userSpaceOnUse"
+       x1="86.539206"
+       y1="161.89413"
+       x2="189.10785"
+       y2="161.89413"
+       gradientTransform="translate(-0.38823529,34.164706)" />
+  </defs>
+  <g
+     inkscape:label="Warstwa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#ff0000;stroke:#000000;stroke-width:1.06584;stroke-dasharray:none;stroke-opacity:1"
+       id="path1"
+       cx="57.070583"
+       cy="98.611771"
+       r="23.048252" />
+    <path
+       sodipodi:type="star"
+       style="fill:#0000ff;stroke:#000000;stroke-width:1.24664;stroke-dasharray:none;stroke-opacity:1"
+       id="path2"
+       inkscape:flatsided="true"
+       sodipodi:sides="3"
+       sodipodi:cx="139.37646"
+       sodipodi:cy="85.800003"
+       sodipodi:r1="33.293301"
+       sodipodi:r2="16.646648"
+       sodipodi:arg1="1.0183774"
+       sodipodi:arg2="2.065575"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 156.84705,114.14118 106.09699,86.759388 155.18535,56.49944 Z"
+       inkscape:transform-center-x="2.9643416"
+       inkscape:transform-center-y="-5.7132388"
+       transform="matrix(0.96972824,-0.31594582,0.32086879,0.95057669,-12.267974,36.1103)" />
+    <g
+       id="g23"
+       transform="matrix(0.98454133,0,0,0.98454133,-8.7237031,-37.265952)">
+      <rect
+         style="fill:url(#linearGradient19);stroke:#000000;stroke-width:0.851;stroke-dasharray:none;stroke-opacity:1"
+         id="rect18"
+         width="101.71764"
+         height="20.964706"
+         x="86.964706"
+         y="151.41177" />
+      <rect
+         style="fill:url(#linearGradient21);stroke:#000000;stroke-width:0.851;stroke-dasharray:none;stroke-opacity:1"
+         id="rect19"
+         width="101.71764"
+         height="20.964706"
+         x="86.576469"
+         y="185.57646" />
+      <rect
+         style="fill:url(#linearGradient20);stroke:#000000;stroke-width:0.851;stroke-dasharray:none;stroke-opacity:1"
+         id="rect20"
+         width="101.71764"
+         height="20.964706"
+         x="86.964706"
+         y="218.57648" />
+    </g>
+    <rect
+       style="fill:#00ff00;stroke:#000000;stroke-width:1.40683;stroke-dasharray:none;stroke-opacity:1"
+       id="rect21"
+       width="33.756962"
+       height="58.492115"
+       x="157.04347"
+       y="52.671841"
+       transform="matrix(0.99999487,0.00320231,-0.65155475,0.75860162,0,0)" />
+    <path
+       style="fill:#ff00ff;stroke:#000000;stroke-width:1.307;stroke-dasharray:none;stroke-opacity:1"
+       d="m 176.64706,95.505881 0.38823,15.529409 H 76.094116 L 59.4,97.835291 83.858826,85.023531 H 117.6353 Z"
+       id="path23" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.30887373,-0.25341366,0.24583376,0.31839735,-141.64341,29.043416)"
+       id="text23"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect23);fill:#ff00ff;stroke:#000000;stroke-width:4.59213;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="68.964844"
+         y="563.3088"
+         id="tspan2"><tspan
+           style="fill:#000000"
+           id="tspan1">LOGO</tspan></tspan></text>
+    <rect
+       style="fill:none;stroke:none;stroke-width:1.215;stroke-dasharray:none;stroke-opacity:1"
+       id="rect24"
+       width="54.741177"
+       height="54.741177"
+       x="-127.5795"
+       y="130.52129"
+       transform="rotate(-49.858898)" />
+  </g>
+</svg>
