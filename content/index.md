@@ -9,5 +9,5 @@ title: Witaj
 - **[[Historia/index|Historia]]**
 - **[[Polski/index|Polski]]**
 - **[[Praktyczne u Dudziaka/index|Praktyczne u Dudziaka (notatki)]]**
-%% - **[[Niemiecki (Pilachowski)/index|Niemiecki (Pilachowski)]]** %%
+- **[[Niemiecki (Pilachowski)/index|Niemiecki (Pilachowski)]]**
 - **[[Chemia/index|Chemia]]**

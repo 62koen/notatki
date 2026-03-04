@@ -1,0 +1,12 @@
+- mit dem Fahrrad fahren — jeździć rowerem
+- Kleidung im Second-Hand-Laden kaufen — kupować ubrania w second-handzie
+- mit dem Zug verreisen — podróżować pociągiem
+- oft regionales Gemüse und Obst kaufen — często kupować regionalne warzywa i owoce
+- Kleidung aus Bio-Baumwolle kaufen — kupować ubrania z bawełny organicznej
+- öffentliche Verkehrsmittel benutzen — korzystać z komunikacji miejskiej
+- selber kochen — gotować samemu
+- sich vegetarisch oder vegan ernähren — odżywiać się wegetariańsko lub wegańsko
+- eine Trinkflasche mit Leitungswasser verwenden — używać butelki na wodę z kranu
+- festes Shampoo und feste Seife nutzen — używać szamponu i mydła w kostce
+- eine Stofftasche benutzen — używać torby materiałowej
+- recyceln oder upcyclen — recyklingować lub upcyklingować
