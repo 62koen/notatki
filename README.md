@@ -1,1 +1,2 @@
+# notatki
 Zbudowane na [Quartz](https://github.com/jackyzha0/quartz).
