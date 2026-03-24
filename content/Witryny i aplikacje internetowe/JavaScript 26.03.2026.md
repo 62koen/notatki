@@ -86,4 +86,4 @@ document.getElementById("bt").addEventListener("click", koszt);
 - Tworzenie akapitu → `createElement("p")` → `setAttribute("id", "wynik")` → `appendChild(el)`
 - Wyświetlenie wyniku → `getElementById("wynik").innerHTML = wy`
 - Obliczenia: towar 1 = `p2 * 20`, towar 2 = `p2 * 10`
-- Zły rodzaj → `" Nie ma takiego towaru"`
+- Zły rodzaj → `"Nie ma takiego towaru"`
