@@ -19,6 +19,7 @@ W przypadku wpisania w polu Rodzaj towaru wartości innej niż 1 lub 2 powinien 
 | 1     | 20 zł                   |
 | 2     | 10 zł                   |
 | inny  | *Nie ma takiego towaru* |
+![](https://github.com/62koen/notatki/blob/v4/attachments/img/skrypt1.png?raw=true)
 
 **Obraz (powyżej)** pokazujący formularz do opracowania w pliku index.html oraz wynik działania skryptu JavaScript
 
