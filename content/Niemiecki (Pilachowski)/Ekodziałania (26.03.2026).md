@@ -1,3 +1,4 @@
+*Dzięki Mencol za przygotowanie*
 - **jeździć rowerem** — mit dem Fahrrad fahren
 - **kupować ubrania w second-handzie** — Kleidung im Second-Hand-Laden kaufen
 - **podróżować pociągiem** — mit dem Zug verreisen
