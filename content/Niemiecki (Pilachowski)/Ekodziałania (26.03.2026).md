@@ -1,12 +1,12 @@
-- jeździć rowerem — mit dem Fahrrad fahren
-- gotować samemu — selber kochen
-- używać torby materiałowej — eine Stofftasche benutzen
-- recyklingować lub upcyklingować — recyceln oder upcyclen
-- kupować ubrania w second-handzie — Kleidung im Second-Hand-Laden kaufen
-- podróżować pociągiem — mit dem Zug verreisen
-- często kupować regionalne warzywa i owoce — oft regionales Gemüse und Obst kaufen
-- kupować ubrania z bawełny organicznej — Kleidung aus Bio-Baumwolle kaufen
-- korzystać z komunikacji miejskiej — öffentliche Verkehrsmittel benutzen
-- odżywiać się wegetariańsko lub wegańsko — sich vegetarisch oder vegan ernähren
-- używać butelki na wodę z kranu — eine Trinkflasche mit Leitungswasser verwenden
-- używać szamponu i mydła w kostce — festes Shampoo und feste Seife nutzen
+- **jeździć rowerem** — mit dem Fahrrad fahren
+- **kupować ubrania w second-handzie** — Kleidung im Second-Hand-Laden kaufen
+- **podróżować pociągiem** — mit dem Zug verreisen
+- **często kupować regionalne warzywa i owoce** — oft regionales Gemüse und Obst kaufen
+- **kupować ubrania z bawełny organicznej** — Kleidung aus Bio-Baumwolle kaufen
+- **korzystać z komunikacji miejskiej** — öffentliche Verkehrsmittel benutzen
+- **gotować samemu** — selber kochen
+- **odżywiać się wegetariańsko lub wegańsko** — sich vegetarisch oder vegan ernähren
+- **używać butelki na wodę z kranu** — eine Trinkflasche mit Leitungswasser verwenden
+- **używać szamponu i mydła w kostce** — festes Shampoo und feste Seife nutzen
+- **używać torby materiałowej** — eine Stofftasche benutzen
+- **recyklingować lub upcyklingować** — recyceln oder upcyclen
