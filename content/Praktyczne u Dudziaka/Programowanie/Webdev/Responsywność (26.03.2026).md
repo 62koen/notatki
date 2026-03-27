@@ -1,5 +1,5 @@
-*Załączniki są na dole strony*
-**Tryb responsywny w Firefoxie**: Menu -> Więcej narzędzi -> Tryb responsywny
+- *Załączniki są na dole strony*
+- **Tryb responsywny w Firefoxie**: Menu -> Więcej narzędzi -> Tryb responsywny
 
 ---
 ## Przykład 1
