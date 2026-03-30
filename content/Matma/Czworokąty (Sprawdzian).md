@@ -27,6 +27,8 @@ $$\Delta = 1 + 120 = 121, \quad \sqrt{\Delta} = 11$$
 
 $$a = \frac{-1 + 11}{2} = 5$$
 
+![](https://raw.githubusercontent.com/62koen/notatki/8d1ddd33a9b610b778ccf13b3b56ac7c301bf29c/attachments/img/Czworok%C4%85ty/zestaw1_zad1_rownoleglobok.svg)
+
 > ✅ **Krótszy bok = 5 cm, dłuższy bok = 6 cm**
 
 ---
@@ -47,6 +49,8 @@ $$AC^2 = 9 + 16 - 2 \cdot 3 \cdot 4 \cdot \left(-\frac{1}{2}\right)$$
 $$AC^2 = 25 + 12 = 37$$
 
 $$AC = \sqrt{37} \text{ cm}$$
+
+![](https://raw.githubusercontent.com/62koen/notatki/8d1ddd33a9b610b778ccf13b3b56ac7c301bf29c/attachments/img/Czworok%C4%85ty/zestaw1_zad2_trapez.svg)
 
 > ✅ **Krótsza przekątna = $\sqrt{37}$ cm ≈ 6,08 cm**
 
@@ -85,6 +89,8 @@ $$b = \frac{144 + 24}{2} = 84 \quad \text{lub} \quad b = \frac{144 - 24}{2} = 60
 Dla $b = 60$: $a = 71 - 60 = 11$ ✓ (a < b, więc OK)  
 Dla $b = 84$: $a = 71 - 84 < 0$ ✗
 
+![](https://raw.githubusercontent.com/62koen/notatki/8d1ddd33a9b610b778ccf13b3b56ac7c301bf29c/attachments/img/Czworok%C4%85ty/zestaw1_zad3_prostokat.svg)
+
 > ✅ **Boki prostokąta: 11 cm i 60 cm**
 
 ---
@@ -107,6 +113,8 @@ Obliczamy wszystkie kąty:
 - $4x - 10° = 186{,}5° - 10° = 176{,}5°$
 - $27°$
 - $3x - 30° = 139{,}9° - 30° = 109{,}9°$
+
+![](https://raw.githubusercontent.com/62koen/notatki/8d1ddd33a9b610b778ccf13b3b56ac7c301bf29c/attachments/img/Czworok%C4%85ty/zestaw1_zad4_katy.svg)
 
 > ✅ **Największy kąt ≈ 176,5°**
 
@@ -131,6 +139,8 @@ $$a = \frac{-2 + 14}{2} = 6, \quad b = 8$$
 Obwód:
 $$2(6 + 8) = 2 \cdot 14 = 28$$
 
+![](https://raw.githubusercontent.com/62koen/notatki/8d1ddd33a9b610b778ccf13b3b56ac7c301bf29c/attachments/img/Czworok%C4%85ty/zestaw1_zad5_prostokat_przekatna.svg)
+
 > ✅ **Odpowiedź: A. 28**
 
 ---
@@ -149,6 +159,8 @@ $$P = a \cdot h_a = b \cdot h_b$$
 $$15 \cdot 10 = 9 \cdot h_b$$
 
 $$h_b = \frac{150}{9} = \frac{50}{3} \approx 16{,}\overline{6} \text{ cm}$$
+
+![](https://raw.githubusercontent.com/62koen/notatki/8d1ddd33a9b610b778ccf13b3b56ac7c301bf29c/attachments/img/Czworok%C4%85ty/zestaw2_zad1_wysokosci.svg)
 
 > ✅ **Druga wysokość = $\frac{50}{3}$ cm ≈ 16,7 cm**
 
@@ -178,6 +190,8 @@ Ponieważ $b = 16$ jest dłuższym bokiem, krótszy bok $a = 6$.
 Pole równoległoboku (kąt ostry = 60°):
 
 $$P = a \cdot b \cdot \sin(60°) = 6 \cdot 16 \cdot \frac{\sqrt{3}}{2} = 48\sqrt{3}$$
+
+![](https://raw.githubusercontent.com/62koen/notatki/8d1ddd33a9b610b778ccf13b3b56ac7c301bf29c/attachments/img/Czworok%C4%85ty/zestaw2_zad2_rownoleglobok_pole.svg)
 
 > ✅ **Pole = $48\sqrt{3}$ cm² ≈ 83,1 cm²**
 
@@ -218,6 +232,8 @@ $$P = \frac{9\sqrt{3} \cdot 6\sqrt{6} + 9\sqrt{3} \cdot 9\sqrt{3} + 9\sqrt{3} \c
 
 $$P = \frac{54\sqrt{18} + 81 \cdot 3 + 81\sqrt{3}}{2} = \frac{162\sqrt{2} + 243 + 81\sqrt{3}}{2}$$
 
+![](https://raw.githubusercontent.com/62koen/notatki/8d1ddd33a9b610b778ccf13b3b56ac7c301bf29c/attachments/img/Czworok%C4%85ty/zestaw2_zad3_trapez_pole.svg)
+
 > ✅ **Pole = $\dfrac{162\sqrt{2} + 81\sqrt{3} + 243}{2}$ cm²**
 
 ---
@@ -253,6 +269,8 @@ Lub prościej: $P = a^2 \cdot \sin\alpha = 9 \cdot \frac{2\sqrt{2}}{3} = 6\sqrt{
 
 > ✅ **Pole rombu = $6\sqrt{2}$ cm² ≈ 8,49 cm²**
 
+![](https://raw.githubusercontent.com/62koen/notatki/8d1ddd33a9b610b778ccf13b3b56ac7c301bf29c/attachments/img/Czworok%C4%85ty/zestaw2_zad4_romb.svg)
+
 ---
 
 ## Zad. 5 (2 pkt.)
@@ -269,6 +287,8 @@ $$d^2 = 25 + 64 - 2 \cdot 5 \cdot 8 \cdot \left(-\frac{1}{2}\right)$$
 $$d^2 = 89 + 40 = 129$$
 
 $$d = \sqrt{129}$$
+
+![](https://raw.githubusercontent.com/62koen/notatki/8d1ddd33a9b610b778ccf13b3b56ac7c301bf29c/attachments/img/Czworok%C4%85ty/zestaw2_zad5_przekatna.svg)
 
 > ✅ **Dłuższa przekątna = $\sqrt{129}$ cm ≈ 11,36 cm**
 
@@ -304,6 +324,8 @@ $$BD^2 = 36 + 32 - 2 \cdot 6 \cdot 4\sqrt{2} \cdot \left(-\frac{\sqrt{2}}{2}\rig
 $$BD^2 = 68 + 48 = 116$$
 
 $$BD = \sqrt{116} = 2\sqrt{29}$$
+
+![](https://raw.githubusercontent.com/62koen/notatki/8d1ddd33a9b610b778ccf13b3b56ac7c301bf29c/attachments/img/Czworok%C4%85ty/zestaw2_zad6_rownoleglobok_ABCD.svg)
 
 > ✅ **$AC = 2\sqrt{5}$ cm ≈ 4,47 cm, $BD = 2\sqrt{29}$ cm ≈ 10,77 cm**
 
