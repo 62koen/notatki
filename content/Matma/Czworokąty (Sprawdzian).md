@@ -1,3 +1,6 @@
+*SI: Claude Sonnet 4.6*
+
+---
 # Zestaw 1
 
 ---
