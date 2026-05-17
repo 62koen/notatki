@@ -67,19 +67,19 @@ switch ($dzien) {
         break;
     case 3:
 	    echo "Środa";
-		break;
+	    break;
 	case 4:
-		echo "Czwartek";
-		break;
+	    echo "Czwartek";
+	    break;
 	case 5:
-		echo "Piątek";
-		break;
+	    echo "Piątek";
+	    break;
 	case 6:
-		echo "Sobota";
-		break;
+	    echo "Sobota";
+	    break;
 	case 7:
-		echo "Niedziela";
-		break;
+	    echo "Niedziela";
+	    break;
     default:
         echo "Nie ma takiego dnia tygodnia.";
 }
