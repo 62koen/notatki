@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: "Notatki 5TiA"
+  pageTitle: Notatki 5TiA
   pageTitleSuffix: " | Notatki 5TiA"
   enableSPA: true
   enablePopovers: false
@@ -30,15 +30,15 @@ configuration:
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#fff23688"
       darkMode:
-        light: "#161618"
+        light: "#1e1e1e"
         lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
+        gray: "#808080"
+        darkgray: "#ffffff"
+        dark: "#ffffff"
+        secondary: "#7f6df2"
+        tertiary: "#a0d1f2"
         highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        textHighlight: "#fff23688"
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
@@ -162,7 +162,7 @@ plugins:
       position: left
       priority: 50
   - source: "@quartz-community/graph"
-    enabled: true
+    enabled: false
     layout:
       position: right
       priority: 10
@@ -229,8 +229,10 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        Kod: https://github.com/62koen/notatki
+        Inspiracja estetyczna: https://obsidian.md
+        Każda notatka, jeśli nie napisano inaczej, jest udostępniona w domenie publicznej na zasadach CC0 1.0: https://creativecommons.org/publicdomain/zero/1.0/deed.pl
+        Załączniki: https://github.com/62koen/notatki/tree/v5/attachments
     layout:
       position: footer
       priority: 50
