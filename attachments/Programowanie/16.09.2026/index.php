@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="pl">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Wodospady</title>
+    <link rel="stylesheet" href="styl.css">
+</head>
+
+<body>
+    <header>
+        <h2>Łowcy wodospadów</h2>
+    </header>
+    <main>
+        <aside>
+        <!-- skrypt 1-->   
+		<?php
+		$conn=mysqli_connect('localhost','root','','wodospady');
+        $sql="SELECT idKontynent, nazwa FROM kontynenty;";
+        $query=mysqli_query($conn,$sql);
+        while($array=mysqli_fetch_array($query)) {
+            echo "<a href='index.php?id=$array[0]'>$array[1]</a>";
+        }
+        
+        ?>
+        </aside>
+        <section>
+            <table>
+                <tr>
+                    <th>Identyfikator</th>
+                    <th>Państwo</th>
+                    <th>Nazwa wodospadu</th>
+                    <th>Wysokość</th>
+                </tr>
+                <!-- skrypt 2-->
+				<?php
+                if (isset($_GET['id'])) {
+                    $id=$_GET['id'];
+                }
+                else {
+                    $id=6;
+                }
+                $sql="SELECT idObiekt, panstwo, nazwa, wartoscCechy FROM obiekty WHERE idRodzaj=10 AND idKontynent=$id;";
+                $query=mysqli_query($conn,$sql);
+                while($array=mysqli_fetch_array($query)) {
+                    echo "<tr>";
+                    echo "<td>$array[0]</td>";
+                    echo "<td>$array[1]</td>";
+                    echo "<td>$array[2]</td>";
+                    echo "<td>$array[3]</td>";
+                    echo "</tr>";
+                }
+                ?>
+            </table>
+            <h4>Wpisz osiągnięcie do bazy</h4>
+            <form action="index.php" method="post">
+                <label for="idWodospad">identyfikator wodospadu</label>
+                <input type="number" name="idWodospad" id="idWodospad">
+                <label for="turysta">turysta</label>
+                <select name="turysta" id="turysta">
+                <!-- skrypt 3-->    
+				<?php
+                $sql="SELECT idTurysta, nick FROM turysci;";
+                $query=mysqli_query($conn,$sql);
+                while($array=mysqli_fetch_array($query)) {
+                    echo "<option value='$array[0]'>$array[1]</option>";
+                }
+				?>
+                </select>
+                <button name="submit">Wpisz</button>
+            </form>
+            <!-- skrypt 4-->
+			<?php
+            $idWodospad=$_POST['idWodospad'];
+            $turysta=$_POST['turysta'];
+            if (isset($idWodospad) && isset($turysta)) {
+                $sql="INSERT INTO osiagniecia VALUES (NULL, $idWodospad, $turysta);";
+			    $query=mysqli_query($conn,$sql);
+            }
+            mysqli_close($conn);
+			?>
+        </section>
+    </main>
+    <article>
+        <h3>Wodospady w Polsce</h3>
+        <img src="img/kamienczyk.jpg" alt="wodospad">
+        <img src="img/siklawica.jpg" alt="wodospad">
+        <img src="img/siklawa.jpg" alt="wodospad">
+        <img src="img/wilczki.jpg" alt="wodospad">
+    </article>
+    <footer>
+        <p>Autor: Autor</p>
+    </footer>
+    <?php mysqli_close($connect); ?>
+</body>
+
+</html>

@@ -8,8 +8,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Notatki 4TiA",
-    pageTitleSuffix: " | Notatki 4TiA",
+    pageTitle: "Notatki 5TiA",
+    pageTitleSuffix: " | Notatki 5TiA",
     enableSPA: true,
     enablePopovers: false,
     analytics: null,

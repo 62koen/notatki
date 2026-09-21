@@ -6,8 +6,7 @@ title: Witaj
 
 ## Lista przedmiotów do wyboru:
 - **[[Witryny i aplikacje internetowe/index|Witryny i aplikacje internetowe]]**
-- **[[Historia/index|Historia]]**
+- - **[[Praktyczne u Dudziaka/index|Praktyczne u Dudziaka (notatki)]]**
 - **[[Polski/index|Polski]]**
-- **[[Praktyczne u Dudziaka/index|Praktyczne u Dudziaka (notatki)]]**
+- **[[Historia/index|Historia]]**
 - **[[Niemiecki (Pilachowski)/index|Niemiecki (Pilachowski)]]**
-- **[[Chemia/index|Chemia]]**
