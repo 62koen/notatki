@@ -37,7 +37,7 @@
 
 ---
 ## 2. Ostateczny wygląd strony (wyświetlony na sprawdzianie)
-![]()
+![](https://raw.githubusercontent.com/62koen/notatki/refs/heads/v4/attachments/img/witryny-23-09-flexbox.png)
 
 ---
 ## 3. Treść zadania i rozwiązanie (z AI)
