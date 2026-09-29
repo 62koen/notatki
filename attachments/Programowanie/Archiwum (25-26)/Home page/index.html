@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id="head"><h2>Home page</h2></div>
+    <main>
+        <p>Logo - University name</p>
+        <nav>
+            <ul>
+                <li>Presentation</li>
+                <li>Studies</li>
+                <li>Staff</li>
+            </ul>
+        </nav>
+        <aside id="left">
+            <u id="bold">News</u>
+            <p>News 1 - Date</p>
+            Description
+            <p>News 2 - Date</p>
+            Description
+        </aside>
+        <aside id="right">
+            <h4>Announcements</h4>
+            <p>Open course 1</p>
+            Description
+            <p>Open course 2</p>
+            Description
+        </aside>
+        <footer>
+            <p>Contact:<a href="mailto:info@university.com">info@university.com</a></p>
+            <p>(c) University, 2011</p>
+        </footer>
+    </main>
+    <style>
+        body {
+            text-align: center;
+        }
+        #head {
+            width: 400px;
+        }
+        main {
+            height: 350px;
+            width: 400px;
+            border: 2px solid lightblue;
+            float: left;
+            text-wrap: wrap;
+        }
+        aside {
+            height: 80px;
+            text-align: left;
+            /* width: 50px; */
+            text-wrap: wrap;
+            padding: 10px;
+        }
+        #left {
+            float: left;
+        }
+        #right {
+            float: right;
+            border-left: 2px solid lightblue;
+        }
+        nav {
+            text-decoration: underline;
+        }
+        a {
+            color: black;
+        }
+        ul {
+            display: inline;
+            text-decoration: none;
+        }
+        footer {
+            clear: both;
+        }
+    </style>
+</body>
+</html>

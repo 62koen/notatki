@@ -1,0 +1,54 @@
+body {
+    background-image: linear-gradient(to right, #E6ECF9, #99A2B6);
+    font-family: Arial, Helvetica, sans-serif;
+}
+a {
+    padding: 5px;
+}
+a:hover {
+    border-bottom: 1px solid white;
+}
+#left {
+    width: 40%;
+    height: 300px;
+    margin-top: 100px;
+    margin-left: 20px;
+    animation-name: swipeLeft;
+    animation-duration: 2s;
+    animation-iteration-count: 1;
+}
+#right {
+    width: 40%;
+    height: 300px;
+    animation-name: swipeRight;
+    animation-duration: 2s;
+    animation-iteration-count: 1;
+}
+main {
+    display: flex;
+}
+h1 {
+    font-size: 60px;
+}
+p {
+    font-size: 20px;
+}
+header {
+    text-align: center;
+}
+@keyframes swipeLeft {
+    from {
+        transform: translateX(-100%);
+    }
+    to {
+        transform: translateX(0);
+    }
+}
+@keyframes swipeRight {
+    from {
+        transform: translateX(100%);
+    }
+    to {
+        transform: translateX(0);
+    }
+}

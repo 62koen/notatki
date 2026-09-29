@@ -1,0 +1,9 @@
+body {
+    font-size: 120%;
+    font-family: Arial;
+    color: #992435;
+    background-image: url(coffeepour.jpg);
+    background-repeat: no-repeat;
+    background: url(coffee.gif) no-repeat left bottom,
+    url(coffeepour.jpg) no-repeat;
+}
