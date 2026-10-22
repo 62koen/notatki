@@ -10,4 +10,5 @@ title: Witaj
 - **[[Polski/index|Polski]]**
 - **[[Matma/index|Matma]]**
 - **[[Historia/index|Historia]]**
+- **[[Angielski/index|Angielski]]**
 - **[[Niemiecki (Pilachowski)/index|Niemiecki (Pilachowski)]]**
