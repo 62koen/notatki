@@ -1,0 +1,2 @@
+Z1: SELECT nazwa, plik FROM towar LIMIT 10;
+Z2: SELECT id, nazwa FROM towar;

@@ -1,0 +1,13 @@
+table {
+    border: 1px solid blue;
+    width: 100%;
+}
+td {
+    border: 1px solid blue;
+}
+th {
+    border: 1px solid blue;
+    background-color: blue;
+    color: white;
+    text-transform: uppercase;
+}

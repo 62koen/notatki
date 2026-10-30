@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .flex {
+            display: flex;
+        }
+        .col {
+            flex-direction: column;
+        }
+        .float-r {
+            float: right;
+        }
+        footer {
+            text-align: center;
+            margin-top: 0;
+            padding-bottom: 15px;
+        }
+        menu, footer {
+            background-color: lightblue;
+        }
+        header {
+            text-align: center;
+            background-color: cornflowerblue;
+        }
+        * {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        menu {
+            padding: 10px;
+            margin-top: 0;
+            margin-bottom: 0;
+            width: 10%;
+        }
+        #imgbig {
+            height: 300px;
+            margin: 20px;
+        }
+        a {
+            text-decoration: none;
+            color: blue;
+        }
+        article {
+            padding-left: 10px;
+            padding-bottom: 10px;
+            width: 100%;
+        }
+        #all {
+            width: 80%;
+            margin: 0 auto;
+        }
+        @media (max-width:768px) {
+            footer {display: none;}
+            #all {width: 100%;}
+            menu {width: 20%;}
+        }
+    </style>
+</head>
+<body>
+    <div id="all">
+    <header class="flex">
+        <img src="latmini.gif" alt="mała latarnia">
+        <h1>Bistro na wyspie</h1>
+    </header>
+    <main class="flex">
+        <menu class="flex col">
+            <strong><a href="">Start</a></strong>
+            <strong><a href="">Menu</a></strong>
+            <strong><a href="">Dojazd</a></strong>
+            <strong><a href="">Kontakt</a></strong>
+        </menu>
+        <article>
+            <img src="latarnia.jpg" alt="Widok latarnii" class="float-r" id="imgbig" onmouseover="zmniejsz()" onmouseout="zwieksz()">
+            <h3>Kawa z miejscowej palarni</h3>
+            <p>Rozkoszuj się Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore, iusto. Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, itaque. Unde natus, ipsa quia reprehenderit repudiandae minus ad fugit illum!</p>
+            <h3>Wyroby cukiernicze</h3>
+            <p>Wybieraj z szerokiego Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ratione dolorum, quam vero maiores modi dolore! Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi sed consectetur dolores, sequi iusto id aliquid?</p>
+            <h3>Każda pora jest dobra na lunch</h3>
+            <p>Rozsmakuj się w Lorem ipsum, dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi sed ea voluptate.</p>
+            <h3>Panoramiczny widok</h3>
+            <p>Podziwiaj piękny Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cupiditate inventore omnis vitae? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Animi recusandae deleniti minima officia voluptatem labore quasi odit, dolore assumenda mollitia!</p>
+        </article>
+    </main>
+    <footer>
+        Copyright &#169; 2026
+    </footer>
+    </div>
+
+    <script>
+        const obrazek=document.getElementById('imgbig');
+        function zmniejsz() {
+            obrazek.style.transform='scale(0.7)';
+        }
+        function zwieksz() {
+            obrazek.style.transform='scale(1)';
+        }
+    </script>
+</body>
+</html>

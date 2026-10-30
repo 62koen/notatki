@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div {
+            background-color: maroon;
+            height: 70px;
+        }
+        img {
+            height: 70px;
+            animation-duration: 4s;
+            animation-iteration-count: infinite;
+            animation-name: move;
+        }
+        img:hover {
+            animation-name: hov;
+            animation-duration: 5s;
+        }
+        @keyframes move {
+            0% {
+                padding-left: 50px;
+            }
+            100% {
+                padding-left: 0;
+            }
+        }
+        @keyframes hov {
+            0% {
+                scale: 100%;
+            }
+            100% {
+                scale: 120%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <img src="img/1.jpg">
+        <img src="img/2.jpg">
+        <img src="img/3.jpg">
+        <img src="img/4.jpg">
+        <img src="img/5.jpg">
+        <img src="img/6.jpg">
+        <img src="img/7.jpg">
+    </div>
+</body>
+</html>

@@ -1,0 +1,3 @@
+Z1: SELECT imie, nazwisko FROM kelnerzy ORDER BY nazwisko DESC;
+Z2: SELECT COUNT(zamowienia.id) AS "Liczba zamówień" FROM zamowienia, stoliki WHERE stoliki.id=zamowienia.idStolika AND idStolika=3 AND stoliki.sala=1;
+Z3: SELECT potrawy.nazwa FROM potrawy, zamowieniapotrawy, zamowienia WHERE potrawy.id=idPotrawy AND zamowienia.id=idZamowienia AND DATE(dataZlozenia)='2024-06-09';

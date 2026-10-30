@@ -1,0 +1,7 @@
+.miniaturka {
+    width: 100px;
+}
+#galeria {
+    display: flex;
+    justify-content: center;
+}

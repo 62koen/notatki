@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #left {
+            background-color: aqua;
+            width: 50%;
+            height: 500px;
+        }
+        #left img {
+            height: 85px;
+            margin: 5px;
+            align-items: center;
+            align-self: center;
+            align-content: center;
+            justify-content: center;
+            justify-self: center;
+            justify-items: center;
+            vertical-align: middle;
+        }
+        #right {
+            background-color: yellow;
+            height: 500px;
+            width: 50%;
+        }
+        #center {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+        main {
+            display: flex;
+        }
+    </style>
+</head>
+<body>
+    <main>
+    <aside id="left">
+        <div id="center">
+        <img src="zdj1.jpg" alt="krajobraz" id="zdj1" onclick="zamiana(1)">
+        <img src="zdj2.jpg" alt="krajobraz" id="zdj2" onclick="zamiana(2)">
+        <img src="zdj3.jpg" alt="krajobraz" id="zdj3" onclick="zamiana(3)">
+        <img src="zdj4.jpg" alt="krajobraz" id="zdj4" onclick="zamiana(4)">
+        <img src="zdj5.jpg" alt="krajobraz" id="zdj5" onclick="zamiana(5)">
+        </div>
+    </aside>
+    <aside id="right">
+        <div id="center">
+        <img src="zdj1.jpg" alt="krajobraz" id="zamiana">
+        </div>
+    </aside>
+    </main>
+
+    <script>
+        function zamiana(x) {
+            if (x==1) {
+                document.getElementById("zamiana").src="zdj1.jpg";
+            }
+            if (x==2) {
+                document.getElementById("zamiana").src="zdj2.jpg";
+            }
+            if (x==3) {
+                document.getElementById("zamiana").src="zdj3.jpg";
+            }
+            if (x==4) {
+                document.getElementById("zamiana").src="zdj4.jpg";
+            }
+            if (x==5) {
+                document.getElementById("zamiana").src="zdj5.jpg";
+            }
+        }
+    </script>
+</body>
+</html>

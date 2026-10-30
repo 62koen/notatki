@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .small {
+            height: 40%;
+            width: 200px;
+        }
+        .small:hover {
+            width: 190px;
+            padding: 2px;
+            border: 1px solid black;
+        }
+        #big {
+            height: 500px;
+        }
+        #bigimg {
+            height: 100%;
+            width: 700px;
+        }
+    </style>
+</head>
+<body>
+    <div id="big" style="margin: 10px;">
+        <img src="1.jpeg" alt="Krajobraz" id="bigimg">
+    </div>
+    <main>
+        <img src="1.jpeg" alt="Krajobraz" id="img1" class="small" onclick="biggerImg1()">
+        <img src="2.jpeg" alt="Krajobraz" id="img2" class="small" onclick="biggerImg2()">
+        <img src="3.jpeg" alt="Krajobraz" id="img3" class="small" onclick="biggerImg3()">
+        <img src="4.jpeg" alt="Krajobraz" id="img4" class="small" onclick="biggerImg4()">
+        <img src="5.jpeg" alt="Krajobraz" id="img5" class="small" onclick="biggerImg5()">
+    </main>
+    <script>
+        function biggerImg1 () {
+            document.getElementById("bigimg").src = "1.jpeg";
+        }
+        function biggerImg2 () {
+            document.getElementById("bigimg").src = "2.jpeg";
+        }
+        function biggerImg3 () {
+            document.getElementById("bigimg").src = "3.jpeg";
+        }
+        function biggerImg4 () {
+            document.getElementById("bigimg").src = "4.jpeg";
+        }
+        function biggerImg5 () {
+            document.getElementById("bigimg").src = "5.jpeg";
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,39 @@
+* {
+    font-family: Georgia;
+}
+#left {
+    background-color: maroon;
+    color: white;
+    height: 600px;
+    width: 30%;
+}
+#right {
+    background-color: maroon;
+    color: white;
+    height: 600px;
+    width: 70%;
+    overflow: auto;
+}
+footer {
+    background-color: dimgray;
+    color: white;
+}
+p {
+    padding: 10px;
+}
+img {
+    padding: 10px;
+    border: 1px solid white;
+}
+#bt1 {
+    background-color: indigo;
+}
+#bt2 {
+    background-color: steelblue;
+}
+#bt3 {
+    background-color: olive;
+}
+.flex {
+    display: flex;
+}

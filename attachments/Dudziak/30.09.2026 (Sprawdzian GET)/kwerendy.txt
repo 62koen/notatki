@@ -1,0 +1,2 @@
+Z1: SELECT id, imie, nazwisko FROM lekarze;
+Z2: SELECT data_wizyty, godzina, pacjent, gabinet FROM harmonogram WHERE id=1;

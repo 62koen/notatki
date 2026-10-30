@@ -1,0 +1,3 @@
+Z2: SELECT producenci.nazwa, MIN(cena) AS "najtańszy", AVG(cena) AS "średnia cena", MAX(cena) AS "najdroższy" FROM rowery, producenci WHERE producenci.id=producent_id GROUP BY producenci.nazwa;
+Z3: SELECT rowery.id, model, typ, rozmiar_kol FROM rowery WHERE model LIKE "%Carbon%" AND rozmiar_ramy="L";
+Z4: UPDATE rowery SET cena=cena-(cena*0.25);

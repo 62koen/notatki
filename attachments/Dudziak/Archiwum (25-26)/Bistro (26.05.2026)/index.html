@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        main {
+            display: flex;
+            font-family: Tahoma, sans-serif;
+            /* flex-wrap: wrap; */
+            flex: auto;
+            /* align-items: stretch; */
+            /* flex-direction: row; */
+        }
+        menu {
+            background-color: brown;
+        }
+        menu, content {
+            margin: 10px;
+            padding: 20px;
+            /* flex-direction: column; */
+        }
+        content {
+            background-color: rgb(250, 249, 248);
+            border: 2px solid burlywood;
+        }
+        .price {
+            background-color: goldenrod;
+            margin: 10px;
+            padding: 5px;
+            text-align: center;
+        }
+        h1 {
+            font-size: 300%;
+            color: goldenrod;
+        }
+    </style>
+</head>
+<body>
+    <main>
+        <menu><h1>Bistro na wynos</h1></menu>
+        <content id="b1">
+            <img src="table.jpg" alt="potrawa">
+            <h3>1</h3>
+            <h3>Czarna fasola</h3>
+            <p>Pikantna czarna fasola z miksem serów meksykańskich zawiniętych w ciasto filo opiekane na złoty kolor.</p>
+            <div class="price">3,95 zł</div>
+        </content>
+        <content id="b2">
+            <img src="table.jpg" alt="potrawa">
+            <h3>2</h3>
+            <h3>Przysmaki z południowego-zachodu</h3>
+            <p>Warstwy kawałków kraba i fasoli w pikantnym sosie pomidorowym oraz nasze ręcznie robione tortile.</p>
+            <div class="price">5,50 zł</div>
+        </content>
+        <content id="b3">
+            <img src="table.jpg" alt="potrawa">
+            <h3>3</h3>
+            <h3>Zupa rybna z płatkami kokosowymi</h3>
+            <p>Lekka i smaczna zupa wegańska z ziemniakami i kukurydzą w kokosowym bulionie.</p>
+            <div class="price">6,00 zł</div>
+        </content>
+        <content id="b4">
+            <img src="table.jpg" alt="potrawa">
+            <h3>4</h3>
+            <h3>Kurczak z rożna</h3>
+            <p>Kruchy kurczak delikatnie opiekany na rożnie, przyprawiony pikantnym i aromatycznym sosem, podawany ze smażonymi bananami i kawałkami mango!</p>
+            <div class="price">9,99 zł</div>
+        </content>
+        <content id="b5">
+            <img src="table.jpg" alt="potrawa">
+            <h3>5</h3>
+            <h3>Tajski kebab z krewetek</h3>
+            <p>Rożen marynowanych w soku cytrynowym z czosnkiem krewetek, a nastepnie grilowanych.</p>
+            <div class="price">7,20 zł</div>
+        </content>
+        <content id="b6">
+            <img src="table.jpg" alt="potrawa">
+            <h3>6</h3>
+            <h3>Pasta Puttanesca</h3>
+            <p>Aromatyczny sos pomidorowy, gotowany na wolnym ogniu z czosnkiem, oliwkami, kaparami, anchois oraz kawałkami czerwonej, pikantnej papryki.</p>
+            <div class="price">4,20 zł</div>
+        </content>
+    </main>
+</body>
+</html>

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            align-items: center;
+            justify-content: center;
+            border: 1px solid navy;
+        }
+        header {
+            letter-spacing: 10px;
+            height: 50px;
+            background-color: navy;
+            color: white;
+            margin: 0px;
+            text-align: center;
+        }
+        h1 {
+            margin: 0%;
+            padding-top: 5px;
+        }
+        menu {
+            background-image: linear-gradient(to bottom, #ffffff,#90C7E3);
+        }
+        main {
+            width: 80%;
+            padding-left: 20px;
+            height: 90%;
+        }
+        #flex {
+            display: flex;
+        }
+        footer {
+            clear: both;
+        }
+        #blue {
+            color: dodgerblue;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Ośrodek wypoczynkowy Pacific Trails</h1>
+    </header>
+    <div id="flex">
+    <menu>
+        <span class="bok">Start</span><br>
+        <span class="bok">Jurty</span><br>
+        <span class="bok">Aktywności</span><br>
+        <span class="bok">Rezerwacje</span><br>
+    </menu>
+    <main>
+        <h4 id="blue">Rezerwacje w Pacific Trails</h4>
+        <h5>Skontaktuj się z nami już dzisiaj!</h5>
+        <p>Pola wymagane są oznaczone gwiazdką *</p>
+        <form>
+            <p><label for="imie">*Imię:</label>
+            <input type="text" id="imie"></p>
+            <p><label for="nazwisko">*Nazwisko:</label>
+            <input type="text" id="nazwisko"></p>
+            <p><label for="mail">*E-mail:</label>
+            <input type="mail" id="mail"></p>
+            <p><label for="tel">Nr tel.:</label>
+            <input type="tel" id="tel"></p>
+            <p><label for="data">Data przybycia:</label>
+            <input type="date" id="data"></p>
+            <p><label for="noce">Liczba nocy:</label>
+            <input type="number" id="noce" min="1"></p>
+            <p><label for="uwagi">*Uwagi:</label>
+            <input type="text" id="uwagi"></p>
+            <input type="submit" value="Wyślij">
+        </form>
+        <br>
+        <div id="contact">
+            <span id="blue">Pacific Trails Resort</span><br>
+            12010 Pacific Trails Road<br>
+            Zephyr, CA 95555<br><br>
+            888-555-5555
+        </div>
+    </main>
+    <footer>
+        Copyright &copy; 2020 Ośrodek Wypoczynkowy Pacific Trails<br>
+        <a href="mailto:imie@nazwisko.com">imie@nazwisko.com</a>
+    </footer>
+    </div>
+</body>
+</html>
