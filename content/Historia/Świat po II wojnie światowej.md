@@ -1,6 +1,7 @@
 Autorzy: Claude Sonnet 5.5, Koen
 
 ---
+
 ## 1. 💀 Bilans strat
 
 1. **Ofiary ludzkie ogółem:** ok. **50-60 mln** zabitych (niektóre szacunki mówią nawet o 70-85 mln). To więcej niż populacja niejednego kraju.
