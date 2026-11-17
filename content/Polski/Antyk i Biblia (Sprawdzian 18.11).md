@@ -219,17 +219,15 @@ Religijne/mistyczne, sens dosłowny, metaforyczny, moralistyczny
 
 Opis stworzenia świata, pierwszy grzech rodziców*, Kain i Abel, wieża Babel
 
-- *Motyw: **homo viator** – człowiek wędrujący
-- *Kary dla ludzi: wygnanie z Edenu, ból rodzenia, śmiertelność, wstyd, praca (dla Adama), problemy
+- *Motyw: **homo viator*** – człowiek wędrujący
+- *Kary dla ludzi:* wygnanie z Edenu, ból rodzenia, śmiertelność, wstyd, praca (dla Adama), problemy
 - **Zakazany owoc** – poznanie dobra i zła
 
 ### Księga Hioba (ST)
 
 Motyw cierpienia niezawinionego
 
-### Księga Koheleta (ST)
-
-Eklezjastes
+### Księga Koheleta (zwany również Eklezjastesem) (ST)
 
 - **Vanitas** – przemijanie („marność nad marnościami i wszystko marność")
 
